@@ -10,9 +10,9 @@ description: Last Updated 2020-06-16
 2. **Vision**
 3. **Blockchain Development Roadmap**
 4. **Egalitarian Proof of Service \(EPoSe\)**
-5. **How to Get Coins \[Mining\]: Egalitarian Proof of Work \(EPoW - Cryptonight Variant\)**
+5. **Egalitarian Proof of Work \(EPoW - Cryptonight Variant\)**
 6. **Transition from EPoW to EPoSe in QWC Network**
-7. **How to Get Coins \[Masternode\]: Egalitarian Proof of Service \(EPoSe - QWC Original\)**
+7. **Egalitarian Proof of Service \(EPoSe - QWC Original\)**
 8. **Exchange Listing and Pricing Strategies**
 9. **Future Directions for the Team**
 10. **Credits**
