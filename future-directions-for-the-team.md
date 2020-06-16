@@ -6,6 +6,8 @@ description: Last Updated 2020-06-16
 
 **Future Directions for the Team and the Community Members**
 
+![](.gitbook/assets/top-2.png)
+
 **A. Multi Language Support \(Wallet Software and Web\)**
 
 Qwertycoin wallet platforms\(Desktop/Web/Mobile\) and QWC official websites will support multiple languages. English is the default language for the software services. Additional language updates shall be requested through official communication channels.
