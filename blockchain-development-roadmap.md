@@ -16,7 +16,7 @@ description: Last Updated 2020-06-16
 * Known bugs for Qwertycoin software and CryptoNote codebase are being patched and fixed.
 * Redundant and unused codes were removed
 * C++ cross-compilation package manger \[Hunter/Polly\] is implemented for easy compilation work even for inexperienced users.
-* Codecov is implemented to check code coverage of the unit test.
+* Implemented Codecov to check code coverage of the unit test.
 * Travis CI and Appveyor CI checks added. - Later replaced by Github action.
 * Automatic Github release deploy feature is added.
 * Release of Zero GUI wallet
@@ -42,10 +42,13 @@ description: Last Updated 2020-06-16
 * Smart Contract Implementation
   * Time-Locked Transactions
   * Multi-Signature Transactions
+  * On-Chain Trading
 
 **Stage 3: Currency Ecosystem Development \(2018 – Continuous\)**
 
 * Invitation/Integration of Existing Commerce Applications
+  * Commercial chat service
+  * Email service
 * Commerce Integration Optimization
 * Local Fiat Exchange Commerce
 * Patches and Updates for All Software
