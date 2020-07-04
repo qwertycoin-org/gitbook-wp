@@ -44,7 +44,7 @@ description: Last Updated 2020-06-16
   * Multi-Signature Transactions
   * On-Chain Trading
 
-**Stage 3: Currency Ecosystem Development \(2018 – Continuous\)**
+**Stage 3: Currency Ecosystem Development \(2022 – 2024\)**
 
 * Invitation/Integration of Existing Commerce Applications
   * Commercial Chat Service \(Wallet + Chat\)
