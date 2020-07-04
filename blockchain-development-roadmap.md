@@ -14,13 +14,13 @@ description: Last Updated 2020-06-16
 * E-Commerce Plug-In Integration Development
 * Codebase Language Format Updated to Clang \(C++ Linting\)
 * Known bugs for Qwertycoin software and CryptoNote codebase are being patched and fixed.
-* Redundant and unused codes were removed
-* C++ cross-compilation package manger \[Hunter/Polly\] is implemented for easy compilation work even for inexperienced users.
-* Implemented Codecov to check code coverage of the unit test.
-* Travis CI and Appveyor CI checks added. - Later replaced by Github action.
-* Automatic Github release deploy feature is added.
+* Redundant and unused codes were removed.
+* C++ Cross-Compilation Dependency Manger \[Hunter/Polly\]
+* Codecov Implementation for Code Coverage
+* Travis CI and Appveyor CI - Later replaced by Github Action.
+* Automatic Github Release Deploy Feature.
 * Release of Zero GUI wallet
-* Web Services + Web/Mobile Wallet - Web wallet and android mobile wallet is released.
+* Release of Web Wallet and Mobile Wallet
 * Multi-language support for wallets
 
 **Stage 2: Currency + Application Development \(2020 – By the end of 2022\)**
@@ -34,9 +34,9 @@ description: Last Updated 2020-06-16
 * Consensus Update \(EPoSe Implementation\)
   * Hybrid PoW/PoS Consensus Algorithm
 * QWCX Wallet - Cross-platform SPV\(Simplified Payment Verification\) wallet
-  * Mobile platform - Android and iOS
-  * Desktop platform - Windows, Linux, MacOS
-  * Web platform
+  * Mobile Platform - Android and iOS
+  * Desktop Platform - Windows, Linux, MacOS
+  * Web Platform
 * DB\(LMDB\) Implementation
   * Minimize memory use and launch multiple mempool layers.
 * Smart Contract Implementation
@@ -47,10 +47,12 @@ description: Last Updated 2020-06-16
 **Stage 3: Currency Ecosystem Development \(2018 – Continuous\)**
 
 * Invitation/Integration of Existing Commerce Applications
-  * Commercial chat service
-  * Email service
+  * Commercial Chat Service \(Wallet + Chat\)
+  * Email Service \(Email + Account Alias\)
 * Commerce Integration Optimization
 * Local Fiat Exchange Commerce
+  * ATMs
+  * Local Store Exchanges
 * Patches and Updates for All Software
 
 **Stage 4: Application Development and Deployment \(2022 – Continuous\)**
