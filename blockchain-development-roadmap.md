@@ -61,5 +61,3 @@ description: Last Updated 2020-06-16
 * Activation of Local Fiat Currency Exchange \(Stores\)
 * Business Applications
 
-
-
