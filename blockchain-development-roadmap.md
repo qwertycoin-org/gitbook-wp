@@ -61,5 +61,5 @@ description: Last Updated 2020-06-16
 * Activation of Local Fiat Currency Exchange \(Stores\)
 * Business Applications
 
-Please check the current status of the roadmap from the official webpage. \(V\) and \(U\) stand for done and under development status respectively.
+
 
