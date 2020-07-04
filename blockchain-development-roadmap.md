@@ -55,7 +55,7 @@ description: Last Updated 2020-06-16
   * Local Store Exchanges
 * Patches and Updates for All Software
 
-**Stage 4: Application Development and Deployment \(2022 – Continuous\)**
+**Stage 4: Application Development and Deployment \(2024 – Continuous\)**
 
 * Search Engine + Desktop/Web/Mobile Wallet
 * Activation of Local Fiat Currency Exchange \(Stores\)
