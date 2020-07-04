@@ -11,31 +11,41 @@ description: Last Updated 2020-06-16
 * Daemon Development and Optimization
 * CLI Wallet / Desktop Wallet Development and Optimization
 * Web Wallet / Mobile Wallet Development and Optimization
-* Commerce Plug-In Integration Development
-* The core team wants to review the entire codebase of CryptoNote V2.0 forked from previous blockchains and acquire better understandings of the codes while making improvements & adjustments during this period. This is the groundwork required to start Stage 2 of development.
+* E-Commerce Plug-In Integration Development
+* Codebase Language Format Updated to Clang \(C++ Linting\)
 * Known bugs for Qwertycoin software and CryptoNote codebase are being patched and fixed.
-* Travis CI and Appveyor CI checks added.
-* Codecov is implemented to check code coverage of Unit Test.
-* C++ linting was performed for internal codes excluding 3rd party files to make all codes more readable.
-* Redundant codes were removed
-* C++ Cross compilation package manger \[Hunter/Polly\] is implemented for easy compilation work even for inexperienced users.
+* Redundant and unused codes were removed
+* C++ cross-compilation package manger \[Hunter/Polly\] is implemented for easy compilation work even for inexperienced users.
+* Codecov is implemented to check code coverage of the unit test.
+* Travis CI and Appveyor CI checks added. - Later replaced by Github action.
 * Automatic Github release deploy feature is added.
-* Zero GUI wallet is added.
-* Web wallet and android mobile wallet is released.
-* Multi-language support for all GUI, web and mobile wallets
+* Release of Zero GUI wallet
+* Web Services + Web/Mobile Wallet - Web wallet and android mobile wallet is released.
+* Multi-language support for wallets
 
 **Stage 2: Currency + Application Development \(2020 – By the end of 2022\)**
 
-* EPoSe Implementation
-* Native Mobile Apps + Mobile Wallet \(U\)
-* Web Services + Web/Mobile Wallet \(V\)
+* Consensus Update \(EPoW Implementation\)
+  * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm
+  * New Block Reward Algorithm
+* Consensus Update \(EPoS Implementation\)
+  * New Block Construction Method
+  * New Stake Reward Algorithm 
+* Consensus Update \(EPoSe Implementation\)
+  * Hybrid PoW/PoS Consensus Algorithm
+* QWCX Wallet - Cross-platform SPV\(Simplified Payment Verification\) wallet
+  * Mobile platform - Android and iOS
+  * Desktop platform - Windows, Linux, MacOS
+  * Web platform
 * DB\(LMDB\) Implementation
-* Multi-signature \(smart contract\)
-* Consensus Update
+  * Minimize memory use and launch multiple mempool layers.
+* Smart Contract Implementation
+  * Time-Locked Transactions
+  * Multi-Signature Transactions
 
 **Stage 3: Currency Ecosystem Development \(2018 – Continuous\)**
 
-* Invitation/Integration of Existing Commerce Applications \(V\)
+* Invitation/Integration of Existing Commerce Applications
 * Commerce Integration Optimization
 * Local Fiat Exchange Commerce
 * Patches and Updates for All Software
