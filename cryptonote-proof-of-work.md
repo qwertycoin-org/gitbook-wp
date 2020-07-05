@@ -24,8 +24,6 @@ Block Reward \(or Base Reward\)
 
 = {\(2^64 -1\) - \(already\_generated\_coins\*10^\(8\)\)}\*2^\(-19\)\*10^\(-8\)
 
-
-
 \[Figure 1. Total QWC in Circulation per Bloch Height\]
 
 ![](.gitbook/assets/1.png)
