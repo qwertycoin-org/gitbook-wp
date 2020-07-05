@@ -10,11 +10,17 @@ The core team found fundamental flaws in the original CryptoNote Proof of Work b
 
 Let us give you an example of how they have taken advantage of the original system.
 
+In \[Table 1\], the column 'Base Rewards' column is the design block rewards for miners for each block.
+
 \[Table 1. An example for mining reward based on original Cryptonight algorithm between block 500,000 and 500,019\]
 
-![Click to enlarge the table](.gitbook/assets/3%20%281%29.png)
+![](.gitbook/assets/3%20%281%29.png)
 
-In \[Table 1\], the column 'Base Rewards' is for the 
+The total time miners put into mining these 19 blocks are 2,161 seconds whereas the total time for the mining 20 blocks \(20 \* difficulty target\) is set to be 2,400 seconds. This shows that the blocks are issued at inconsistent interval and miners are basically taking advantages of their hashing power to get the rewards in a shorter time span.
+
+In fact, \[Table 1\] shows that the miners were receiving approximately 10% additional profits compared to intended blockchain design.
+
+
 
 ![](.gitbook/assets/epow-reward-graph-area-marking.png)
 
@@ -26,11 +32,7 @@ In \[Figure 5\], X-axis represents the timestamp gap between any two blocks and 
 
 When the consistency factor is 1\(This is the fixed value for all CryptoNote coins as default\), 
 
-![Click to enlarge the table](.gitbook/assets/3%20%281%29.png)
 
-The total time miners put into mining these 19 blocks are 2,161 seconds whereas the total time for the mining 20 blocks \(20 \* difficulty target\) is set to be 2,400 seconds. This shows that the blocks are issued at inconsistent interval and miners are basically taking advantages of their hashing power to get the rewards in a shorter time span.
-
-In fact, \[Table 1\] shows that the miners were receiving approximately 10% additional profits compared to intended blockchain design.
 
 To prevent this abuse, the concept of time will be introduced through a variable called ‘consistency’. The new EPoW block reward consensus will be adjusted based on ‘consistency’ \(actual mining time / difficulty target time\). 
 
