@@ -4,7 +4,7 @@ description: Last Updated 2020-06-16
 
 # Cover Page
 
-QWERTYCOIN **\[Ticker: QWC\]** is a digital crypto currency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms.
+QWERTYCOIN **\[Ticker: QWC\]** is a digital cryptocurrency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms.
 
 ![](.gitbook/assets/top.png)
 

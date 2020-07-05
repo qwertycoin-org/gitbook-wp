@@ -4,7 +4,19 @@ description: Last Updated 2020-06-16
 
 # Egalitarian Proof of Work \(EPoW - CryptoNote Variant\)
 
-Qwertycoin implemented a new reward algorithm based on time for EPoW.
+Qwertycoin implemented a new mining consensus called EPoW.
+
+The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage in mining more coins than what the system was intended for.
+
+Let us give you an example of how they have taken advantage of the original system.
+
+\[Table 1. An example for mining reward based on original Cryptonight algorithm between block 500,000 and 500,019\]
+
+![Click to enlarge the table](.gitbook/assets/3%20%281%29.png)
+
+In \[Table 1\], the column 'Base Rewards' is for the 
+
+![](.gitbook/assets/epow-reward-graph-area-marking.png)
 
 \[Figure 5. Block Reward Adjustment using 'consistency'\]
 
@@ -13,8 +25,6 @@ Qwertycoin implemented a new reward algorithm based on time for EPoW.
 In \[Figure 5\], X-axis represents the timestamp gap between any two blocks and Y-axis represents how the consistency factor changes over time. The blue straight line represents the consistency factor of 1.
 
 When the consistency factor is 1\(This is the fixed value for all CryptoNote coins as default\), 
-
-\[Table 1. An example for mining reward based on original Cryptonight algorithm between block 500,000 and 500,019\]
 
 ![Click to enlarge the table](.gitbook/assets/3%20%281%29.png)
 
