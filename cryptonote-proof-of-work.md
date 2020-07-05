@@ -14,15 +14,11 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 
 The default equation for calculating block rewards for CryptoNote is as follows:
 
-Max. number of coins = 2^64-1
-
-Number of decimals = 8
-
-Emission factor = 19 
+Max. number of coins = \(2^64\) - 1 / Number of decimals = 8 / Emission factor = 19 
 
 Block Reward \(or Base Reward\) 
 
-= {\(2^64 -1\) - \(already\_generated\_coins\*10^\(8\)\)}\*2^\(-19\)\*10^\(-8\)
+= {\(\(2^64\) -1\) - \(already\_generated\_coins\*10^\(8\)\)}\*2^\(-19\)\*10^\(-8\)
 
 \[Figure 1. Total QWC in Circulation per Bloch Height\]
 
