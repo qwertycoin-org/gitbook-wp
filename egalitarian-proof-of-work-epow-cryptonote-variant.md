@@ -22,13 +22,11 @@ In fact, \[Table 1\] shows that the miners were receiving approximately 10% addi
 
 \[Figure 5. Block Reward Adjustment using 'consistency'\] 
 
-![Area A to C6](.gitbook/assets/epow-reward-graph-area-marking.png)
-
-![Mining Reward Graph after EPoW](.gitbook/assets/epow-reward-graph.png)
+![Mining Reward Graph after EPoW \(Area A to C6\)](.gitbook/assets/epow-reward-graph-area-marking.png)
 
 To prevent this abuse, the concept of time will be introduced through a variable called ‘consistency’. The new EPoW block reward consensus will be adjusted based on ‘consistency’ \(actual mining time / difficulty target time\). 
 
-This ‘consistency’ is a multiplier to the base reward, and it can either make the block reward between zero and 2 times the base reward depending on the time difference within adjacent blocks.  
+This ‘consistency’ is a multiplier to the base reward, and it can either make the block reward between 0.8% and 200% of the base reward depending on the time difference within adjacent blocks.  
 
 \[Table 2. An example for mining reward based on EPoW algorithm between block 500,000 and 500,019\]
 
