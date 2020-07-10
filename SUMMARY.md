@@ -14,5 +14,9 @@
     * [Transition from PoW to PoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/transition-from-epow-to-epose-in-qwc-network.md)
     * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-stake-epos-hybrid-pos-dpos.md)
     * [Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW /EPoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-service-epose-qwc-original.md)
+* [\[Feature\] Genesis Reference Block](feature-genesis-reference-block.md)
+* [\[Feature\] On-Chain Trade](feature-on-chain-trade.md)
+* [\[Feature\] Time Locked Transactions](feature-time-locked-transactions.md)
+* [FATF Compliance](fatf-compliance.md)
 * [Future Directions](future-directions-for-the-team.md)
 
