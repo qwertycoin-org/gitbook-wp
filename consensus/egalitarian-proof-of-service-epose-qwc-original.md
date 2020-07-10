@@ -1,8 +1,8 @@
 ---
-description: Last Updated 2020-06-16
+description: Last Updated 2020-07-10
 ---
 
-# Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW /EPoS
+# Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS
 
 **Circulation: How to Get Coins \[Masternode\]: Egalitarian Proof of Service \(EPoSe\)**
 
