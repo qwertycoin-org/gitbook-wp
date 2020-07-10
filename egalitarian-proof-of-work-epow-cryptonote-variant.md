@@ -30,7 +30,7 @@ This ‘consistency’ is a multiplier to the base reward, and it can either mak
 
 \[Table 2. An example for mining reward based on EPoW algorithm between block 500,000 and 500,019\]
 
-![Click to enlarge the table](.gitbook/assets/2%20%281%29.png)
+![Click to enlarge the table.](.gitbook/assets/2%20%281%29.png)
 
 In \[Table 2\], EPoW Reward column shows adjusted base reward for each block from introduction of ‘consistency’
 
