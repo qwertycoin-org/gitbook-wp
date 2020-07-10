@@ -4,7 +4,7 @@ description: Last Updated 2020-07-05
 
 # Egalitarian Proof of Work \(EPoW\)
 
-The first part of EPoSe consensus update starts from making major changes to conventional Proof of Work. Qwertycoin implemented a new mining consensus called Egalitarian Proof of Work \(EPoW\).
+The first part of EPoSe consensus update starts from making major changes to conventional Proof of Work. It is called Egalitarian Proof of Work \(EPoW\).
 
 The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage in mining more coins than what the system was intended for.
 
