@@ -33,7 +33,10 @@ Telegram: [https://t.me/qwertycoin](https://t.me/qwertycoin)
 Facebook: [https://www.facebook.com/Qwertycoin-422694361519282/](https://www.facebook.com/Qwertycoin-422694361519282/)  
 Discord: [https://discord.gg/U5amwCs](https://discord.gg/U5amwCs)  
 Twitter: [https://twitter.com/Qwertycoin\_QWC](https://twitter.com/Qwertycoin_QWC)  
-Reddit: [https://www.reddit.com/r/QWERTYCOIN/](https://www.reddit.com/r/QWERTYCOIN/)
+Reddit: [https://www.reddit.com/r/QWERTYCOIN/](https://www.reddit.com/r/QWERTYCOIN/)  
+Medium: [https://medium.com/qwertycoin](https://medium.com/qwertycoin)
+
+
 
 **Support & Contact Information:**
 
