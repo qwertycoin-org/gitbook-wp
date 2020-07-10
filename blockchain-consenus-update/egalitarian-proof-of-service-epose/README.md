@@ -6,7 +6,7 @@ description: Last Updated 2020-06-16
 
 **What is Egalitarian Proof of Service \(EPoSe – A New Consensus Algorithm\)?**
 
-QWC’s EPoSe is the first that introduces a consensus algorithm that recognizes all network contributors and has attributes to proportionate rewards based on their services as well as optimizing all levels of services to the latest regulatory and technology standards.
+QWC’s EPoSe is the first that introduces a consensus that recognizes all network contributors and has attributes to proportionate rewards based on their services as well as optimizing all levels of services to the latest regulatory and technology standards.
 
 The conventional structure of Proof of Work \(PoW\) or Proof of Stake \(PoS\) allows individuals either in single or in a group to have the massive power over the blockchain’s consensus. This is called ‘centralization’. These types of consensus may seem appropriate in our free market world because Return-on-Investment \(ROI\) must be satisfied or foreseeable in order to bring more attention on board and invest time and money for management and equipment respectively.
 
