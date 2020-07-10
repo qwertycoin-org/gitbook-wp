@@ -2,7 +2,7 @@
 description: Last Updated 2020-06-16
 ---
 
-# Egalitarian Proof of Service \(EPoSe - QWC Original\)
+# Egalitarian Proof of Service \(EPoSe - Hybrid PoW /PoS\)
 
 **Circulation: How to Get Coins \[Masternode\]: Egalitarian Proof of Service \(EPoSe\)**
 
@@ -43,5 +43,5 @@ EPoSe reward system has following features:
 
 \[Table 5. Transaction Fee & EPoSe Rewards Estimation\]
 
-![Click to enlarge the table](.gitbook/assets/5%20%281%29.png)
+![Click to enlarge the table](../../.gitbook/assets/5%20%281%29.png)
 

@@ -1,10 +1,10 @@
 ---
-description: Last Updated 2020-06-16
+description: Last Updated 2020-07-10
 ---
 
-# Transition from EPoW to EPoSe in QWC Network
+# Transition from PoW to PoS
 
-**Transition from EPoW to EPoSe in QWC Network**
+**Transition from PoW to PoS in QWC Project**
 
 As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can increase close to **4 TB** at **99.95%** QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
 
@@ -19,11 +19,11 @@ Therefore, it is inevitable that QWC blockchain algorithm has to shift from indi
 
 \[Figure 5. Blockchain Size per Block Height\]
 
-![](.gitbook/assets/5.png)
+![](../../.gitbook/assets/5.png)
 
 \[Figure 6. Blockchain Size per Date\]
 
-![](.gitbook/assets/6.png)
+![](../../.gitbook/assets/6.png)
 
 One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe \[Masteronde\] algorithm does not allow more profits by providing a high hash rate.
 
@@ -31,7 +31,7 @@ The appropriate timing for this transition is to be decided by the community mem
 
 \[Figure 7. Block Reward Reduction up to Block Height 2,000,000\]
 
-![](.gitbook/assets/7.png)
+![](../../.gitbook/assets/7.png)
 
 \[Table 3. Expected profitability from EPoW under GPU mining environment\] - Deleted due to Past Dates
 

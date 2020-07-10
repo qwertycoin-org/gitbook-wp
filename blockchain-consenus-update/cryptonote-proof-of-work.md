@@ -22,23 +22,23 @@ Block Reward \(or Base Reward\)
 
 \[Figure 1. Total QWC in Circulation per Bloch Height\]
 
-![](.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
 \[Figure 2. Total QWC in Circulation per Date\]
 
-![](.gitbook/assets/2.png)
+![](../.gitbook/assets/2.png)
 
 \[Figure 3. Block Reward Reduction per Block Height\]
 
-![](.gitbook/assets/3.png)
+![](../.gitbook/assets/3.png)
 
 \[Figure 4. Block Reward Reduction per Date\]
 
-![](.gitbook/assets/4.png)
+![](../.gitbook/assets/4.png)
 
 * History of Mining Algorithm Changes
 
-![Click to enlarge the table](.gitbook/assets/history.png)
+![Click to enlarge the table](../.gitbook/assets/history.png)
 
 Qwertycoin core team is committed to reflecting the decisions of the community regarding major changes in the future through the community voting system.
 
