@@ -5,6 +5,7 @@
 * [Introduction](introduction.md)
 * [Vision](vision-and-emission-graph.md)
 * [Blockchain Development Roadmap](blockchain-development-roadmap.md)
+* [Exchange Listing and Pricing Strategies](exchange-listing-and-pricing-strategies.md)
 * [Blockchain Consensus Update](blockchain-consenus-update/README.md)
   * [\[Outdated\] CryptoNote Proof of Work](blockchain-consenus-update/cryptonote-proof-of-work.md)
   * [Egalitarian Proof of Service \(EPoSe\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/README.md)
@@ -12,7 +13,6 @@
     * [Transition from PoW to PoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/transition-from-epow-to-epose-in-qwc-network.md)
     * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/DPoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-stake-epos-hybrid-pos-dpos.md)
     * [Egalitarian Proof of Service \(EPoSe - Hybrid PoW /PoS\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-service-epose-qwc-original.md)
-* [Exchange Listing and Pricing Strategies](exchange-listing-and-pricing-strategies.md)
 * [Future Directions for the Team](future-directions-for-the-team.md)
 * [Credits](credits.md)
 
