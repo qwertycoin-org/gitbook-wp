@@ -31,6 +31,7 @@ This section provides information about QWC Core Team members and contributors. 
 | Gladcow | Please check pull requests of qwertycoin / qwertycoin-testnet |
 | Spectr | Please check pull requests of qwertycoin / qwertycoin-gui / qwertycoin-zero repositories on github. |
 | Blockinator | Please check wiki section of qwertycoin repository. |
+| Alex Bur | Designed Github hosted static webapge: www.qwertycoin.org |
 | Biz | Please check on github. |
 | Aiwe | Please check on github. |
 
