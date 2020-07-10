@@ -2,7 +2,7 @@
 description: Last Updated 2020-06-16
 ---
 
-# Egalitarian Proof of Service \(EPoSe - QWC Original\)
+# Egalitarian Proof of Service \(EPoSe - Hybrid PoW /PoS\)
 
 **Circulation: How to Get Coins \[Masternode\]: Egalitarian Proof of Service \(EPoSe\)**
 

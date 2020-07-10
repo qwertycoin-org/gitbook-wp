@@ -1,10 +1,10 @@
 ---
-description: Last Updated 2020-06-16
+description: Last Updated 2020-07-10
 ---
 
-# Transition from EPoW to EPoSe in QWC Network
+# Transition from PoW to PoS
 
-**Transition from EPoW to EPoSe in QWC Network**
+**Transition from PoW to PoS in QWC Project**
 
 As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can increase close to **4 TB** at **99.95%** QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
 

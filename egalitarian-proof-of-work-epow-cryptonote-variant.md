@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-05
 ---
 
-# Egalitarian Proof of Work \(EPoW - CryptoNote Variant\)
+# Egalitarian Proof of Work \(EPoW\)
 
 Qwertycoin implemented a new mining consensus called EPoW.
 
