@@ -50,7 +50,7 @@ This section provides information about QWC Core Team members and contributors. 
 
 ### **Open Source Software License Providers**
 
-**The following services provided free open source licenses in support of Qwertycoin Project.**
+**The following services granted free open source licenses in support of Qwertycoin Project. We will make good use of them for this project and the whole community appreciates the contributions towards OS projects.**
 
 \*\*\*\*
 
