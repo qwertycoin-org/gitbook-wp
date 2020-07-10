@@ -7,15 +7,15 @@ description: Last Updated 2020-06-16
 **Index**
 
 1. **Introduction**
-2. **Vision**
-3. **Blockchain Development Roadmap**
-4. **Egalitarian Proof of Service \(EPoSe\)**
-5. **Egalitarian Proof of Work \(EPoW - Cryptonight Variant\)**
-6. **Transition from EPoW to EPoSe in QWC Network**
-7. **Egalitarian Proof of Service \(EPoSe - QWC Original\)**
-8. **Exchange Listing and Pricing Strategies**
-9. **Future Directions for the Team**
-10. **Credits**
+2. **Credits**
+3. **Vision**
+4. **Blockchain Development Roadmap**
+5. **Egalitarian Proof of Service \(EPoSe\)**
+6. **Egalitarian Proof of Work \(EPoW - Cryptonight Variant\)**
+7. **Transition from EPoW to EPoSe in QWC Network**
+8. **Egalitarian Proof of Service \(EPoSe - QWC Original\)**
+9. **Exchange Listing and Pricing Strategies**
+10. **Future Directions for the Team**
 
 \*\*\*\*
 
