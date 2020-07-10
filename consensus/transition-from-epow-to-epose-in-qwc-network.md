@@ -19,11 +19,11 @@ Therefore, it is inevitable that QWC blockchain algorithm has to shift from indi
 
 \[Figure 5. Blockchain Size per Block Height\]
 
-![](../../.gitbook/assets/5.png)
+![](../.gitbook/assets/5.png)
 
 \[Figure 6. Blockchain Size per Date\]
 
-![](../../.gitbook/assets/6.png)
+![](../.gitbook/assets/6.png)
 
 One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe \[Masteronde\] algorithm does not allow more profits by providing a high hash rate.
 
@@ -31,7 +31,7 @@ The appropriate timing for this transition is to be decided by the community mem
 
 \[Figure 7. Block Reward Reduction up to Block Height 2,000,000\]
 
-![](../../.gitbook/assets/7.png)
+![](../.gitbook/assets/7.png)
 
 \[Table 3. Expected profitability from EPoW under GPU mining environment\] - Deleted due to Past Dates
 

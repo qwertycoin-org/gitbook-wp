@@ -43,5 +43,5 @@ EPoSe reward system has following features:
 
 \[Table 5. Transaction Fee & EPoSe Rewards Estimation\]
 
-![Click to enlarge the table](../../.gitbook/assets/5%20%281%29.png)
+![Click to enlarge the table](../.gitbook/assets/5%20%281%29.png)
 
