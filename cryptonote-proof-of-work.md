@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-04
 ---
 
-# CryptoNote Proof of Work
+# \[Outdated\] CryptoNote Proof of Work
 
 **How to Get Coins \[Mining\]: Default Proof of Work \(CryptoNote V2.0\)**
 
