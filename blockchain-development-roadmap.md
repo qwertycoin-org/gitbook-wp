@@ -27,7 +27,7 @@ description: Last Updated 2020-06-16
   * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm
   * New Block Reward Algorithm
 * Consensus Update \(EPoS Implementation\)
-  * New Block Construction Method
+  * New Block Construction Method \(Hybrid PoS/dPoS\)
   * New Stake Reward Algorithm 
 * Consensus Update \(EPoSe Implementation\)
   * Hybrid PoW/PoS Consensus Algorithm
