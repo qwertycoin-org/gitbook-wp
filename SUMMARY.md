@@ -2,6 +2,7 @@
 
 * [Cover Page](README.md)
 * [Index](index.md)
+* [Credits](credits.md)
 * [Introduction](introduction.md)
 * [Vision](vision-and-emission-graph.md)
 * [Blockchain Development Roadmap](blockchain-development-roadmap.md)
@@ -14,5 +15,4 @@
     * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/DPoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-stake-epos-hybrid-pos-dpos.md)
     * [Egalitarian Proof of Service \(EPoSe - Hybrid PoW /PoS\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-service-epose-qwc-original.md)
 * [Future Directions for the Team](future-directions-for-the-team.md)
-* [Credits](credits.md)
 
