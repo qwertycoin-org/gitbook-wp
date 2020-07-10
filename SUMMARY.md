@@ -24,6 +24,7 @@
 
 * [Time Locked Transactions](features/feature-time-locked-transactions.md)
 * [On-Chain Trade](features/feature-on-chain-trade.md)
+* [Multi-Signature Transactions](features/multi-signature-transactions.md)
 * [Genesis Reference Block](features/feature-genesis-reference-block.md)
 
 ---
