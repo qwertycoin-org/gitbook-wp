@@ -4,9 +4,9 @@ description: Last Updated 2020-07-05
 
 # Egalitarian Proof of Work \(EPoW\)
 
-The first part of EPoSe consensus update starts from making major changes to conventional Proof of Work. It is called Egalitarian Proof of Work \(EPoW\).
+The first part of EPoSe consensus deals with major changes to Proof of Work. QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockchain space.
 
-The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage in mining more coins than what the system was intended for.
+The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage of mining more coins than what the system was intended for. Also, difficulty algorithm \(DA\) was not carefully designed to cover the cases
 
 Let us give you an example of how they have taken advantage of the original system.
 
