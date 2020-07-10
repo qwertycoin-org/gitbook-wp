@@ -4,8 +4,6 @@ description: Last Updated 2020-06-16
 
 # Introduction
 
-**Introduction**
-
 Qwertycoin \(Ticker: QWC\) is an open source project for creating a decentralized digital asset, like Bitcoin.
 
 It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin except its users. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new consensus algorithm concept exclusive to QWC.

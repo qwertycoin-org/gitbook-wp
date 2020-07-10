@@ -4,8 +4,6 @@ description: Last Updated 2020-06-16
 
 # Vision
 
-**Vision**
-
 * **Reliable, fast and easy to use / user-friendly blockchain service**
 * **Decentralized development from crowd efforts and funding**
 * **Privacy protection for the members of its network**

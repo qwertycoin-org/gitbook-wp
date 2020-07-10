@@ -4,8 +4,6 @@ description: Last Updated 2020-06-16
 
 # Index
 
-**Index**
-
 1. **Introduction**
 2. **Credits**
 3. **Vision**

@@ -4,8 +4,6 @@ description: Last Updated 2020-07-10
 
 # Credits
 
-**Credits**
-
 This section provides information about QWC Core Team members and contributors. This section is to be revised periodically and previous core team members and significant contributors shall remain as well.
 
 | **Core Team** |  |  |
