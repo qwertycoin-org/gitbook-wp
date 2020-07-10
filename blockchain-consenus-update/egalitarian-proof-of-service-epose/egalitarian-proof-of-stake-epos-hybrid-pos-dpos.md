@@ -1,2 +1,2 @@
-# Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/DPoS
+# Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS
 
