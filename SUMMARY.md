@@ -5,7 +5,7 @@
 * [Introduction](introduction.md)
 * [Vision](vision-and-emission-graph.md)
 * [Blockchain Development Roadmap](blockchain-development-roadmap.md)
-* [Blockchain Consenus Update](blockchain-consenus-update/README.md)
+* [Blockchain Consensus Update](blockchain-consenus-update/README.md)
   * [\[Outdated\] CryptoNote Proof of Work](blockchain-consenus-update/cryptonote-proof-of-work.md)
   * [Egalitarian Proof of Service \(EPoSe\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/README.md)
     * [Egalitarian Proof of Work \(EPoW\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-work-epow-cryptonote-variant.md)
