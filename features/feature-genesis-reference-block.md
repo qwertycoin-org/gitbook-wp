@@ -1,2 +1,2 @@
-# \[Feature\] Genesis Reference Block
+# Genesis Reference Block
 

@@ -1,2 +1,2 @@
-# \[Feature\] Time Locked Transactions
+# Time Locked Transactions
 

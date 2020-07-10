@@ -22,9 +22,9 @@
 
 ## Features
 
-* [\[Feature\] Time Locked Transactions](features/feature-time-locked-transactions.md)
-* [\[Feature\] On-Chain Trade](features/feature-on-chain-trade.md)
-* [\[Feature\] Genesis Reference Block](features/feature-genesis-reference-block.md)
+* [Time Locked Transactions](features/feature-time-locked-transactions.md)
+* [On-Chain Trade](features/feature-on-chain-trade.md)
+* [Genesis Reference Block](features/feature-genesis-reference-block.md)
 
 ---
 

@@ -1,2 +1,2 @@
-# \[Feature\] On-Chain Trade
+# On-Chain Trade
 
