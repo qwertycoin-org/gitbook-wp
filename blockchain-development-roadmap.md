@@ -4,8 +4,6 @@ description: Last Updated 2020-06-16
 
 # Blockchain Development Roadmap
 
-**Blockchain Development Roadmap**
-
 **Stage 1: Currency Application Development \(2017 – By the end of 2019\)**
 
 * Daemon Development and Optimization
