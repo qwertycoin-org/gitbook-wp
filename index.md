@@ -13,7 +13,7 @@ description: Last Updated 2020-06-16
 7. **Transition from EPoW to EPoSe in QWC Network**
 8. **Egalitarian Proof of Service \(EPoSe - QWC Original\)**
 9. **Exchange Listing and Pricing Strategies**
-10. **Future Directions for the Team**
+10. **Future Directions**
 
 \*\*\*\*
 

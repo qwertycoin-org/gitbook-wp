@@ -14,5 +14,5 @@
     * [Transition from PoW to PoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/transition-from-epow-to-epose-in-qwc-network.md)
     * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/DPoS](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-stake-epos-hybrid-pos-dpos.md)
     * [Egalitarian Proof of Service \(EPoSe - Hybrid PoW /PoS\)](blockchain-consenus-update/egalitarian-proof-of-service-epose/egalitarian-proof-of-service-epose-qwc-original.md)
-* [Future Directions for the Team](future-directions-for-the-team.md)
+* [Future Directions](future-directions-for-the-team.md)
 

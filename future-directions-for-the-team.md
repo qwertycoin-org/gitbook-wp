@@ -2,9 +2,7 @@
 description: Last Updated 2020-06-16
 ---
 
-# Future Directions for the Team
-
-**Future Directions for the Team and the Community Members**
+# Future Directions
 
 ![](.gitbook/assets/top-2.png)
 
