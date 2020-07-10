@@ -4,7 +4,7 @@ description: Last Updated 2020-07-05
 
 # Egalitarian Proof of Work \(EPoW\)
 
-The first part of EPoSe consensus deals with major changes to Proof of Work. QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockchain space.
+The first movement towards EPoSe consensus is changing conventional Proof of Work. QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockchain space while protecting the blockchain from the well-known majority attacks and double-spending.
 
 The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage of mining more coins than what the system was intended for. Also, difficulty algorithm \(DA\) was not carefully designed to cover the cases
 
@@ -34,7 +34,7 @@ This ‘consistency’ is a multiplier to the base reward, and it can either mak
 
 In \[Table 2\], EPoW Reward column shows adjusted base reward for each block from introduction of ‘consistency’
 
-Among CryptoNote developers, some expressed concerns that the fact that the longer miners mine to find a block, the bigger the reward gets. Therefore, miners or pools is attracted to exploiting this point and get maximum rewards by setting the block timestamp in the future. This can drag mining difficulty down to the bottom as a side effect. **EPoW reward algorithm is designed so that any forged extra time posted by possible malicious actor\(s\) is rather penalized for every second compared to issuing new block with shortest timestamp for the next block. There are simply no incentives for them to do this. QWC does not consider this argument valid. A game theory analysis of this changes shows the same.**
+Among CryptoNote developers, some expressed concerns that the fact that the longer miners mine to find a block, the bigger the reward gets. Therefore, miners or pools is attracted to exploiting this point and get maximum rewards by setting the block timestamp in the future. This can drag mining difficulty down to the bottom as a side effect. **EPoW reward algorithm is designed so that any forged extra time posted by a malicious actor is rather penalized for every second compared to issuing a new block with the shortest timestamp for the next block. There are simply no incentives for them to do this. QWC does not consider this argument valid. A game theory analysis of miners' behavior leads to the expected result.**
 
 ![Click to enlarge the table](../.gitbook/assets/game-theory.png)
 
