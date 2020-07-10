@@ -46,5 +46,21 @@ This section provides information about QWC Core Team members and contributors. 
 | Lee \(Spek Oregonian\) | Speaker & Marketing Manager |  |
 | Rayen | Web Designer |  |
 
-Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service.
+### \*\*\*\*
+
+### **Open Source Software License Providers**
+
+**The following services provided free open source licenses in support of Qwertycoin Project.**
+
+\*\*\*\*
+
+![Full Access to Gitbook FEatures for Qwertycoin Documentation and Whitepaper Pages](.gitbook/assets/logotext.svg)
+
+
+
+![10 IDE All Package Access ](.gitbook/assets/jetbrains-variant-2.png)
+
+
+
+Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service
 
