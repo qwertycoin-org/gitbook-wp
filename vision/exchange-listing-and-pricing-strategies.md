@@ -4,8 +4,6 @@ description: Last Updated 2020-06-16
 
 # Exchange Listing and Pricing Strategies
 
-**Exchange Listing and Pricing Strategies**
-
 It is important to inform our members that your registrations on exchange platforms with personal information such as ID and bank/credit card accounts will/can expose your identity and your actions and outcomes from trading activities can be subjected to applicable laws and regulations.
 
 In the early stage, QWC experienced issues with exchanges \(Octaex\(China\), Crepcoin Exchange\(Decentralized\), Altex Exchange\(Decentralized\)\) arising from various factors such as delays or lack of support, site shut downs and service terminations, which caused damages to QWC members.

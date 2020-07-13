@@ -4,8 +4,6 @@ description: Last Updated 2020-07-04
 
 # \[Outdated\] CryptoNote Proof of Work
 
-**How to Get Coins \[Mining\]: Default Proof of Work \(CryptoNote V2.0\)**
-
 QWC blockchain project is an open-source project and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
 
 CryptoNote Technology V2.0 has a built-in block reward system called ‘emission rate’. It is a shape of log function and, because of its original design, **QWC block rewards will reduce by each block found and eventually reach a point called ‘tail emission’.**
