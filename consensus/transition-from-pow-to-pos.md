@@ -4,18 +4,16 @@ description: Last Updated 2020-07-10
 
 # Transition from PoW to PoS
 
-**Transition from PoW to PoS in QWC Project**
-
-As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can increase close to **4 TB** at **99.95%** QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
+As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can potentially increase close to **4 TB** at **99.95%** QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
 
 Eventually, the users of desktop wallet software are expected to connect their wallet software through remote nodes to reduce the percentage of their local hardware resource usage, while having an option to download the complete QWC blockchain data and sync in their local computers.
 
 QWC team also realizes that
 
 1. block rewards against energy consumption for EPoW mining process will become inefficient for the network and harmful to our environment in the later stage of QWC blockchain.
-2. mobile wallet application will require remote nodes \(without downloading blockchain file\) for transactions.
+2. mobile wallet application will require remote nodes \(without downloading the blockchain file\) for transactions.
 
-Therefore, it is inevitable that QWC blockchain algorithm has to shift from individual miners\(EPoW\) to competent node operators\(EPoSe\) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
+Therefore, it is inevitable that QWC blockchain to shift from individual miners\(EPoW\) to competent node operators\(EPoS\) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
 
 \[Figure 5. Blockchain Size per Block Height\]
 
@@ -25,9 +23,7 @@ Therefore, it is inevitable that QWC blockchain algorithm has to shift from indi
 
 ![](../.gitbook/assets/6.png)
 
-One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe \[Masteronde\] algorithm does not allow more profits by providing a high hash rate.
-
-The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in \[Table 3\] for our members to make informed decisions.
+The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in \[Table 3\] and \[Table 4\] for our members to make informed decisions.
 
 \[Figure 7. Block Reward Reduction up to Block Height 2,000,000\]
 
