@@ -4,7 +4,7 @@ description: Last Updated 2020-07-05
 
 # Egalitarian Proof of Work \(EPoW\)
 
-The first movement towards EPoSe consensus is changing conventional Proof of Work. QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockchain space while protecting the blockchain from the well-known majority attacks and double-spending.
+QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockchain space for protecting the blockchain from the well-known majority attacks and double-spending. This is also the first step towards EPoSe consensus.
 
 The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to take advantage of mining more coins than what the system was intended for. Also, difficulty algorithm \(DA\) was not carefully designed to cover the cases
 
