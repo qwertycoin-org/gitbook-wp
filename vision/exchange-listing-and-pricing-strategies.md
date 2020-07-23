@@ -17,7 +17,7 @@ From past experience and failure to select proper exchanges for trading, the lis
 **Listed Exchanges**
 
 1. Crex24/Estonia – Funded by QWC Team \[BTC\]
-2. BitexLIVE/Turkey – Funded by QWC Team \[BTC \(when QWC &gt; 1 Satoshi\) / DOGE\]
+2. BitexLIVE/Turkey – Funded by QWC Team \[USDT\]
 3. Fedlio/Singapore or Seychelles – Funded by QWC Team \[ETH / BCHABC / DASH\] – Warning for withdrawal issues!
 4. Bisq/Decentralized – Promoted by QWC Team \[BTC\] – Requires Activation Cost.
 5. Bituan/China – Promoted by QWC Chinese Community \[USDT\]
@@ -29,11 +29,6 @@ From past experience and failure to select proper exchanges for trading, the lis
 11. Becoin/ – Promoted by QWC Chinese Community \[BTC / ETH\]
 
 QWC community members should be aware that the listing contract can be nullified if there is not enough trading volume.
-
-**Next Target Exchanges**
-
-1. STEX – To be funded by QWC Community \[LTC\]
-2. BIKI –
 
 **Closed Exchanges**
 
