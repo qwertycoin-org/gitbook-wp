@@ -8,5 +8,5 @@ CIMA stands for Confidence Interval Moving Average. This Difficulty Algorithm\('
 
 The percentage figure used in CI stands for the range of distributions of the values are normally within the confidence interval range from a mean value of the sample population. The percentage value does not necessarily represent that the future samples are likely to be within that specific interval range.
 
-
+![](../../.gitbook/assets/normal_distribution_and_scales.gif)
 
