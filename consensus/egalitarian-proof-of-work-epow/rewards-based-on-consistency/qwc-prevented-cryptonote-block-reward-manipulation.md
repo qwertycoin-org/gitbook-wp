@@ -18,7 +18,7 @@ Area C1 - C6: An area where block rewards will increase after 120 seconds of min
 
 \[Table 2. An example of mining rewards based on EPoW block reward algorithm between block 500,000 and 500,019\]
 
-![Click to enlarge the table.](../../../.gitbook/assets/2%20%281%29.png)
+![Click the table to enlarge the view.](../../../.gitbook/assets/2%20%281%29.png)
 
 In \[Table 2\], EPoW Reward column shows an adjusted base reward for each block from the introduction of ‘consistency’
 
