@@ -31,9 +31,5 @@ The block reward decreases continuously until it reaches a point of tail emissio
 
 \[Figure 1. Block Rewards and its reduction up to Block Height 2,000,000\]
 
-![](../../.gitbook/assets/7.png)
-
-
-
-
+![CN Original Block Emission Schedule](../../.gitbook/assets/7.png)
 
