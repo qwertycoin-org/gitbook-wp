@@ -4,16 +4,17 @@ description: Last Updated 2020-07-23
 
 # EPoW Block Rewards based on Consistency
 
-A factor called 'Consistency' is multiplied to a standard CryptoNote\(CN\) block reward equation for reward adjustment.
+A factor called 'consistency' is multiplied to a standard CryptoNote\(CN\) block reward equation for reward adjustment.
 
 The block time between two adjacent blocks by default is 120 seconds.
 
-If miners find a block less than 120 seconds, then the consistency will be less than 1.  
-If miners find a block after 120 seconds, the consistency will be greater than 1.
+If miners find a block less than 120 seconds, the value consistency is less than 1.  
+If miners find a block after 120 seconds, the value of consistency is greater than 1.  
+If miners find a block at 120 seconds, the value of consistency is 1. 
 
 The value of consistency ranges from 0.08 to a maximum of 2.00.
 
-Now, let's take a look at how rewards change under EPoW.  
+Now, let's take a look at how rewards change with Consistency under EPoW.  
   
 Case 1\)  
 If the block time between block \#1 and \#2 \(timestamp of \#2 - timestamp of \#1\) = 80 seconds.  
