@@ -15,7 +15,6 @@ The value of consistency ranges from 0.08 to a maximum of 2.00.
 
 Now, let's take a look at how rewards change under EPoW.  
   
-  
 Case 1\)  
 If the block time between block \#1 and \#2 \(timestamp of \#2 - timestamp of \#1\) = 80 seconds.  
 This makes the consistency factor  80 sec / 120 sec = 3/4  = 0.75.
@@ -23,7 +22,6 @@ This makes the consistency factor  80 sec / 120 sec = 3/4  = 0.75.
 The block reward for finding block \#2 will reduce by 0.75X. Please find the method used to calculate block reward for block \#2 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
 
 This changes the block reward for block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.  
-  
   
 Case 2\)  
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds.  
@@ -33,8 +31,6 @@ The block reward for finding block \#3 will increase by 1.189X. Please find the 
 
 This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.  
   
-
-
 The application of the consistency factor allows EPoW to fairly reward network participants\(under EPoW, miners\) based on their contributions to the security of the QWC blockchain while protecting the rewards from well-known majority attacks \(51% or 99% attack\) since miners do not gain anything by finding many blocks in a short period of time.
 
 
