@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# How CN has been manipulated by miners
+# How CN Block Reward has been manipulated by miners
 
 Let us give you an example of how they have taken advantage of the original system.
 
