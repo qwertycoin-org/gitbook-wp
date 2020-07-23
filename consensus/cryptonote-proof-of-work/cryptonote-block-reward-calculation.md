@@ -33,3 +33,7 @@ The block reward decreases continuously until it reaches a point of tail emissio
 
 ![](../../.gitbook/assets/7.png)
 
+
+
+
+

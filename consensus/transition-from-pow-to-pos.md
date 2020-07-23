@@ -25,13 +25,11 @@ Therefore, it is inevitable that QWC blockchain to shift from individual miners\
 
 The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in \[Table 3\] and \[Table 4\] for our members to make informed decisions.
 
-\[Figure 7. Block Reward Reduction up to Block Height 2,000,000\]
+\[Figure 1. Expected Block Rewards Emission per Date\]
 
-![](../.gitbook/assets/7.png)
+![](../.gitbook/assets/2.png)
 
-\[Table 3. Expected profitability from EPoW under GPU mining environment\] - Deleted due to Past Dates
-
-\[Table 4. Expected profitability from EPoW under ASIC mining environment and Transition timing proposal from EPoW to EPoSe\]
+\[Table 3. Expected profitability from EPoW under ASIC mining environment and Transition timing proposal from EPoW to EPoSe\]
 
 <table>
   <thead>
