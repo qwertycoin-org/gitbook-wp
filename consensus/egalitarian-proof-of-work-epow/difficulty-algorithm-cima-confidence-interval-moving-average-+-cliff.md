@@ -1,2 +1,2 @@
-# Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\) + Cliff
+# Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\)
 
