@@ -8,7 +8,7 @@ Let us give you an example of how miners and mining pools have taken advantage o
 
 In \[Table 1\], the column 'Base Rewards' column is the design block rewards for miners for each block.
 
-\[Table 1. An example of mining reward based on original Cryptonight algorithm between block 500,000 and 500,019\]
+\[Table 1. An example of mining reward based on original Cryptonight block reward schedule between block 500,000 and 500,019\]
 
 ![](../../../.gitbook/assets/3%20%281%29.png)
 
