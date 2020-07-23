@@ -6,7 +6,7 @@ description: Last Updated 2020-07-23
 
 A factor called 'consistency' is multiplied to a standard cryptonote reward equation for reward adjustment.
 
-The block time between two blocks by default is 120 seconds.
+The block time between two adjacent blocks by default is 120 seconds.
 
 If miners find a block less than 120 seconds, then the consistency will be less than 1.  
 If miners find a block after 120 seconds, the consistency will be greater than 1.
