@@ -2,9 +2,9 @@
 description: Last Updated 2020-07-23
 ---
 
-# CryptoNote Block Reward Calculation
+# CryptoNote Block Reward Schedule Calculation
 
-The standard CN block reward is calculated using the following formula:
+The standard CN block reward schedule is calculated using the following formula:
 
 *  Block Reward = \(Total Supply of Coins - Already Generated Coins\) / \(2^emission speed factor\)
 

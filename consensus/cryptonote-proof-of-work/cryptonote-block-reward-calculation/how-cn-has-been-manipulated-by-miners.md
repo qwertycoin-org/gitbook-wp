@@ -4,7 +4,7 @@ description: Last Updated 2020-07-23
 
 # An example of CryptoNote Block Reward Manipulation
 
-Let us give you an example of how they have taken advantage of the original system.
+Let us give you an example of how miners and mining pools have taken advantage of CryptoNote original block reward schedule.
 
 In \[Table 1\], the column 'Base Rewards' column is the design block rewards for miners for each block.
 

@@ -14,10 +14,10 @@
 ## Consensus
 
 * [\[Outdated\] CryptoNote Proof of Work](consensus/cryptonote-proof-of-work/README.md)
-  * [CryptoNote Block Reward Calculation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation/README.md)
+  * [CryptoNote Block Reward Schedule Calculation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation/README.md)
     * [An example of CryptoNote Block Reward Manipulation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation/how-cn-has-been-manipulated-by-miners.md)
 * [Egalitarian Proof of Work \(EPoW\)](consensus/egalitarian-proof-of-work-epow/README.md)
-  * [EPoW Block Reward based on Consistency](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/README.md)
+  * [EPoW Block Reward Algorithm based on Consistency](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/README.md)
     * [An example of how QWC prevented CryptoNote Block Reward Manipulation](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/untitled.md)
   * [Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average-+-cliff.md)
   * [Difficulty Algorithm - CLIFF \(Yes, that cliff\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cliff-yes-that-cliff.md)
