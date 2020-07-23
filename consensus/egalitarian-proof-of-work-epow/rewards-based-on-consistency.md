@@ -31,7 +31,9 @@ The block reward for finding block \#3 will increase by 1.189X. Please find the 
 
 This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.  
   
-The application of the consistency factor allows EPoW to fairly reward network participants\(under EPoW, miners\) based on their contributions to the security of the QWC blockchain while protecting the rewards from well-known majority attacks \(51% or 99% attack\) since miners do not gain anything by finding many blocks in a short period of time.
+\* So, what improvements/benefits does this consistency bring to QWC?
 
+The application of the consistency factor allows EPoW to fairly reward network participants\(under EPoW, miners\) based on their contributions to the security of the QWC blockchain while protecting the rewards from well-known majority attacks \(51% or 99% attack\) since miners do not gain anything by finding many blocks in a short period of time. 
 
+Along with CIMA and CLIFF, the effectiveness of consistency will only increase and the security of the network will be reinforced greatly. A monumental moment for our open source project by achieving something other majors have failed.
 
