@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# Introduction of EPoW Block Reward Algorithm based on Consistency
+# Introduction of EPoW block reward algorithm based on Consistency
 
 QWC introduces a new block reward algorithm that utilizes a time-based factor called 'consistency', multiplied to a standard CryptoNote\(CN\) block reward equation in order to adjust block rewards.
 

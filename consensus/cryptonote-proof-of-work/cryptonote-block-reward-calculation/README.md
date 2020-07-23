@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# CryptoNote Block Reward Schedule Calculation
+# CryptoNote block reward schedule calculation
 
 The standard CN block reward schedule is calculated using the following formula:
 
