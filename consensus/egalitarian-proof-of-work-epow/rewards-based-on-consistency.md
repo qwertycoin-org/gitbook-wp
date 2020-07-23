@@ -13,8 +13,6 @@ If miners find a block after 120 seconds, the consistency will be greater than 1
 
 The value of consistency ranges from 0.08 to a maximum of 2.00.
 
-
-
 Now, let's take a look at how rewards change under EPoW.  
 If the block time between block \#1 and \#2 \(timestamp of \#3 - timestamp of \#2\) = 80 seconds.  
 This makes the consistency factor  80 sec / 120 sec = 3/4  = 0.75.
