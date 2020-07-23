@@ -11,8 +11,9 @@ QWERTYCOIN **\[Ticker: QWC\]** is a digital cryptocurrency designed for everyday
 **FEATURES**
 
 * **Anonymous, Unlinkable and Untraceable Transactions** - Based on CryptoNote V2.0 Technology over a decentralized network.
-* **Egalitarian Proof of Work \(EPoW\)** – Through Cryptonight-base algorithm with LWMA difficulty algorithm.
-* **Egalitarian Proof of Service \(EPoSe\)** – Transaction fee distribution among master nodes based on Uptime as a measure of service.
+* **Egalitarian Proof of Work \(EPoW\)** – Manipulation proof PoW consensus with CIMA + CLIFF difficulty algorithm. First in the world.
+* **Egalitarian Proof of Stake \(EPoS\)** – Hybrid PoS and dPoS consensus.
+* **Egalitarian Proof of Service \(EPoSe\)** – Ultimate consensus combining EPoW and EPoS.
 * **Reserve Requirement System** - Development fees and donations collected over time will be stored in QWERTYCOIN Foundation.
 * **No Pre-mining** - Community owned system and transparent developments and operations.
 * **Free Master Nodes** - No mandatory minimum coin commitment to run Master Nodes.
