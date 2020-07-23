@@ -38,7 +38,7 @@ QWC community members should be aware that the listing contract can be nullified
 
 * Binance, HitBTC, Bittrex, Poloniex and other exchanges will be possible candidates or our own exchange.
 
-**A brief explanation regarding initial listing price:**
+**A brief explanation regarding the initial listing price:**
 
 Qwertycoin team firmly believes in the free market theory. That is why the initial listing price was at 0.01 satoshi. Our community strongly insisted on 1 satoshi listing during the poll and debate during the first exchange listing.
 
