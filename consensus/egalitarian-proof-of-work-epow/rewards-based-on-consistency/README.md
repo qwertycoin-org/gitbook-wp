@@ -18,7 +18,7 @@ Now, let's take a look at how rewards change with Consistency under EPoW.
   
 Case 1\)  
 If the block time between block \#1 and \#2 \(timestamp of \#2 - timestamp of \#1\) = 80 seconds.  
-In this case, the value of Consistency is 80 sec / 120 sec = 3/4  = 0.75.
+In this case, the value of consistency is 80 sec / 120 sec = 3/4  = 0.75.
 
 The block reward for finding block \#2 will reduce by 0.75X. Please find the method used to calculate block reward for block \#2 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
 
@@ -26,7 +26,7 @@ This changes the block reward for block \#2 from the original reward of 351,843.
   
 Case 2\)  
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds.  
-In this case, the value of Consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.00^\(0.25\) = 1.189.
+In this case, the value of consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.00^\(0.25\) = 1.189.
 
 The block reward for finding block \#3 will increase by 1.189X. Please find the method used to calculate block reward for block \#3 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
 
