@@ -19,7 +19,8 @@ Now, let's take a look at how rewards change under EPoW.
 If the block time between block \#1 and \#2 \(timestamp of \#3 - timestamp of \#2\) = 80 seconds.  
 This makes the consistency factor  80 sec / 120 sec = 3/4  = 0.75.
 
-The block reward for finding block \#2 will be reduced to 0.75.   
+The block reward for finding block \#2 will be reduced to 0.75. Please find the method used to calculate block reward for block \#2 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
+
 This changes the block reward from:   
 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.
 
