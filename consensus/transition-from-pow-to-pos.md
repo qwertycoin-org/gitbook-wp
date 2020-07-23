@@ -15,17 +15,17 @@ QWC team also realizes that
 
 Therefore, it is inevitable that QWC blockchain to shift from individual miners\(EPoW\) to competent node operators\(EPoS\) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
 
-\[Figure 5. Blockchain Size per Block Height\]
+\[Figure 2. Blockchain Size per Block Height\]
 
 ![](../.gitbook/assets/5.png)
 
-\[Figure 6. Blockchain Size per Date\]
+\[Figure 3. Blockchain Size per Date\]
 
 ![](../.gitbook/assets/6.png)
 
 The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in \[Table 3\] and \[Table 4\] for our members to make informed decisions.
 
-\[Figure 1. Expected Block Rewards Emission per Date\]
+\[Figure 4. Expected Block Rewards Emission per Date\]
 
 ![](../.gitbook/assets/2.png)
 
