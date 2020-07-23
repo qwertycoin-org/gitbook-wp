@@ -22,5 +22,5 @@ The maximum value from \[Table 2\] under EPoW reward per second is consistently 
 
 The maximum value from \[Table 1\] under actual reward per second is at 10,449 QWC and the range of reward per second when a block is mined less than or equal to 120 seconds, is between 1,132 QWC and 10,449 QWC, while the lower bound is at 295 QWC.
 
-By taking a conservative measure, the CN block reward schedule is now fully protected with the application of consistency because it allows emission consistent over blocks or time.
+By taking a conservative measure, the CN block reward schedule is now fully protected with the application of consistency because it allows emission consistent over time.
 
