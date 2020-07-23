@@ -16,7 +16,7 @@ In \[Table 1\], the column 'Base Rewards' column is the design block rewards for
 
 ![](../../.gitbook/assets/3%20%281%29.png)
 
-The total time miners put into mining these 19 blocks are 2,161 seconds whereas the total time for the mining 20 blocks \(20 \* difficulty target\) is set to be 2,400 seconds. This shows that the blocks are issued at inconsistent interval and miners are basically taking advantages of their hashing power to get the rewards in a shorter time span.
+The total time miners put into mining these 19 blocks are 2,161 seconds whereas the total time for the mining 20 blocks \(20 \* difficulty target\) is set to be 2,400 seconds. This shows that the blocks are issued at the inconsistent interval and miners are basically taking advantage of their hashing power to get the rewards in a shorter time span.
 
 In fact, \[Table 1\] shows that the miners were receiving approximately 10% additional profits compared to intended blockchain design. This additional profits can range from 0.8% to 11,900.0%. This is represented by Area A.
 
