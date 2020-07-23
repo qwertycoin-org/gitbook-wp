@@ -1,3 +1,7 @@
+---
+description: Last Updated 2020-07-23
+---
+
 # An example of how QWC prevented CryptoNote block reward manipulation
 
 \[Figure 2. Block Reward Adjustment using 'consistency'\] 
