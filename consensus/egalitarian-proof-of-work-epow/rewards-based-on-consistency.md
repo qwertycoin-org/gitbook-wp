@@ -12,7 +12,7 @@ If miners find a block less than 120 seconds, the value consistency is less than
 If miners find a block after 120 seconds, the value of consistency is greater than 1.  
 If miners find a block at 120 seconds, the value of consistency is 1. 
 
-The value of consistency ranges from 0.08 to a maximum of 2.00.
+The value of consistency can change between 0.08 to a maximum of 2.00.
 
 Now, let's take a look at how rewards change with Consistency under EPoW.  
   
