@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# Block Rewards based on Consistency
+# EPoW Block Rewards based on Consistency
 
 A factor called 'consistency' is multiplied to a standard CryptoNote\(CN\) block reward equation for reward adjustment.
 
