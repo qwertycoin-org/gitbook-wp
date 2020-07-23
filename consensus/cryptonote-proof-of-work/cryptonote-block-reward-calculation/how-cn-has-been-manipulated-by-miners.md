@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# An example of CryptoNote Block Reward Manipulation
+# An example of CryptoNote Block Reward Schedule Manipulation
 
 Let us give you an example of how miners and mining pools have taken advantage of CryptoNote original block reward schedule.
 
