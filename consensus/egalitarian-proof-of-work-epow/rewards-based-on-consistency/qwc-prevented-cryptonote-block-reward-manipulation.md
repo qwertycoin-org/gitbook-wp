@@ -16,11 +16,11 @@ Area C1 - C6: An area where block rewards will increase after 120 seconds of min
 
 ![Click to enlarge the table.](../../../.gitbook/assets/2%20%281%29.png)
 
-In \[Table 2\], EPoW Reward column shows adjusted base reward for each block from the introduction of ‘consistency’
+In \[Table 2\], EPoW Reward column shows an adjusted base reward for each block from the introduction of ‘consistency’
 
 The maximum value from \[Table 2\] under EPoW reward per second is consistently at 1,132 QWC when mined less than or equal to 120 seconds and the lower bound is at 370 QWC.
 
 The maximum value from \[Table 1\] under actual reward per second is at 10,449 QWC and the range of reward per second when a block is mined less than or equal to 120 seconds, is between 1,132 QWC and 10,449 QWC, while the lower bound is at 295 QWC.
 
-By taking a conservative measure, the CN block reward schedule is now fully protected with the application of consistency because it allows emission consistent over time and provides additional rewards for any extra efforts by miners if solve time for a block increases beyond the full grant zone of 120 seconds.
+The CN block reward schedule is now fully protected with the application of consistency because it allows emission consistent over time and provides additional rewards for any extra efforts by miners if solve time for a block increases beyond the full grant zone of 120 seconds.
 
