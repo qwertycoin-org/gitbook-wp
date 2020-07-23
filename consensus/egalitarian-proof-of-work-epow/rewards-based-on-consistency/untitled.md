@@ -10,9 +10,7 @@ Area B: An area that is bound by CN block reward schedule after 120 seconds of m
 
 Area C1 - C6: An area where block rewards will increase after 120 seconds of mining. Current block reward algorithm is set to adjust the consistency factor using a power of 1/4.
 
-To demonstrate how this works in our chain 
-
-As mentioned previously, the consistency is a multiplier to the base reward, and it can either make the block reward between 0.8% and 200.0% of the base reward depending on the time difference within adjacent blocks.  
+**To demonstrate the changes, the same data set was used from the example of manipulation under CN block reward schedule.**
 
 \[Table 2. An example of mining rewards based on EPoW block reward algorithm between block 500,000 and 500,019\]
 
@@ -20,5 +18,9 @@ As mentioned previously, the consistency is a multiplier to the base reward, and
 
 In \[Table 2\], EPoW Reward column shows adjusted base reward for each block from the introduction of ‘consistency’
 
+The maximum value from \[Table 2\] under EPoW reward per second is consistently at 1,132 QWC when mined less than or equal to 120 seconds and the lower bound is at 370 QWC.
 
+The maximum value from \[Table 1\] under actual reward per second is at 10,449 QWC and the range of reward per second when a block is mined less than or equal to 120 seconds, is between 1,132 QWC and 10,449 QWC, while the lower bound is at 295 QWC.
+
+By taking a conservative measure, the CN block reward schedule is now fully protected and is back on track with the application of consistency because it allows emission consistent over blocks or time.
 
