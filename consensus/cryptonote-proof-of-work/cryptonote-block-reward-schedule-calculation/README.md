@@ -29,7 +29,7 @@ Block \#4 ... and so on.
 
 The block reward decreases continuously until it reaches a point of tail emission, which is a constant number.
 
-\[Figure 1. Block Rewards and its reduction up to Block Height 2,000,000\]
+\[Figure 5. Block Rewards and its reduction up to Block Height 2,000,000\]
 
 ![CN Original Block Emission Schedule](../../../.gitbook/assets/7.png)
 
