@@ -2,7 +2,7 @@
 description: Last Updated 2020-07-23
 ---
 
-# An example of CN Block Reward Manipulation
+# An example of CryptoNote Block Reward Manipulation
 
 Let us give you an example of how they have taken advantage of the original system.
 
