@@ -16,5 +16,5 @@ The total time miners put into mining these 19 blocks are 2,161 seconds whereas 
 
 In fact, \[Table 1\] shows that the miners were receiving approximately 10% additional profits compared to intended blockchain design. This additional profits theoretically can range from 0.8% to 11,900.0%.
 
-To prevent this abuse, the concept of time will be introduced through a variable called ‘consistency’. The new EPoW block reward consensus will be adjusted based on ‘consistency’ \(actual mining time divided by difficulty target time\). 
+To prevent this abuse, the concept of time will be introduced through a variable called ‘consistency’. The new EPoW block reward consensus will be adjusted based on ‘consistency’ \(actual mining time divided by difficulty target time\).
 
