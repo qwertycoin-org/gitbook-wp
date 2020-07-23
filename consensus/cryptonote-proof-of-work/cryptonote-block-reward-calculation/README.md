@@ -31,7 +31,7 @@ The block reward decreases continuously until it reaches a point of tail emissio
 
 \[Figure 1. Block Rewards and its reduction up to Block Height 2,000,000\]
 
-![CN Original Block Emission Schedule](../../.gitbook/assets/7.png)
+![CN Original Block Emission Schedule](../../../.gitbook/assets/7.png)
 
 You can also download an excel calculation sheet for [CN original block reward schedule](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/QWC%20Emission%20Calculation.zip) from Qwertycoin Github repository.
 
