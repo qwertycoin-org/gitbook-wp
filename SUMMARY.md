@@ -18,7 +18,7 @@
     * [An example of how CN Block Reward has been manipulated by miners](consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation/how-cn-has-been-manipulated-by-miners.md)
 * [Egalitarian Proof of Work \(EPoW\)](consensus/egalitarian-proof-of-work-epow/README.md)
   * [EPoW Block Reward based on Consistency](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/README.md)
-    * [Untitled](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/untitled.md)
+    * [An example of how QWC prevented CN Block Reward Manipulation](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/untitled.md)
   * [Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average-+-cliff.md)
   * [Difficulty Algorithm - CLIFF \(Yes, that cliff\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cliff-yes-that-cliff.md)
 * [Transition from PoW to PoS](consensus/transition-from-pow-to-pos.md)
