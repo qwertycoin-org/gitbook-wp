@@ -1,4 +1,4 @@
-# An example of how QWC prevented CryptoNote Block Reward Manipulation
+# An example of how QWC prevented CryptoNote block reward manipulation
 
 \[Figure 2. Block Reward Adjustment using 'consistency'\] 
 
