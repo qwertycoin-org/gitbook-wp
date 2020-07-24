@@ -10,7 +10,7 @@ This section provides information about QWC Core Team members and contributors. 
 | :--- | :--- | :--- |
 | **Name** | **Role in QWC Team** | **Misc.** |
 | Alex \(nnian\) | Lead Developer |  |
-| Jason \(Xecute\) | Team Lead & Finance Officer |  |
+| Jason \(Xecute\) | Team Lead Architect & Finance Officer |  |
 | Jeff Lee | IT & Infrastructure |  |
 | Marc \(ExploShot\) | Developer & Mobile Lead |  |
 | Michael \(ghost1x\) | Community Manager & Designer |  |
