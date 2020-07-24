@@ -30,7 +30,6 @@
 
 * [Time Locked Transactions](features/feature-time-locked-transactions.md)
 * [Pension and Long Term Staking/Saving](features/pension-and-long-term-staking-saving.md)
-* [On-Chain Trade](features/feature-on-chain-trade.md)
 * [Genesis Reference Block](features/feature-genesis-reference-block.md)
 
 ---
@@ -46,4 +45,5 @@
 
 * [Consolidation](transactions/consolidation.md)
 * [Multi-Signature](transactions/multi-signature-transactions.md)
+* [On-Chain Trade](transactions/feature-on-chain-trade.md)
 
