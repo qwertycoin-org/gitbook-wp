@@ -30,7 +30,7 @@ description: Last Updated 2020-06-16
   * New Block Construction Method \(Hybrid PoS/dPoS\)
   * New Stake Reward Algorithm 
 * Consensus Update \(EPoSe Implementation\)
-  * Hybrid PoW/PoS Consensus Algorithm
+  * Hybrid EPoW/EPoS Consensus
 * QWCX Wallet - Cross-platform SPV\(Simplified Payment Verification\) wallet
   * Mobile Platform - Android and iOS
   * Desktop Platform - Windows, Linux, MacOS
