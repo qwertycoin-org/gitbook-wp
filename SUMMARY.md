@@ -26,24 +26,24 @@
 * [Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW/EPoS](consensus/egalitarian-proof-of-service-epose-hybrid-epow-epos.md)
 * [10% Governance Tax](consensus/10-governance-tax.md)
 
-## Features
+## Scalability
 
-* [Time Locked Transactions](features/feature-time-locked-transactions.md)
-* [Pension and Long Term Staking/Saving](features/pension-and-long-term-staking-saving.md)
-* [Genesis Reference Block](features/feature-genesis-reference-block.md)
+* [Genesis Reference Block](scalability/feature-genesis-reference-block.md)
+* [Consolidation](scalability/consolidation.md)
 
----
-
-* [FATF Compliance](fatf-compliance.md)
-* [Future Directions](future-directions-for-the-team.md)
-
-## Governance
+## Blockchain Governance <a id="governance"></a>
 
 * [On-Chain Voting](governance/on-chain-voting.md)
+* [FATF Compliance](governance/fatf-compliance.md)
 
 ## Transactions
 
-* [Consolidation](transactions/consolidation.md)
+* [Time Locked Transactions](transactions/feature-time-locked-transactions.md)
 * [Multi-Signature](transactions/multi-signature-transactions.md)
+* [Long Term Saving](transactions/long-term-saving.md)
 * [On-Chain Trade](transactions/feature-on-chain-trade.md)
+
+---
+
+* [Future Directions](future-directions-for-the-team.md)
 
