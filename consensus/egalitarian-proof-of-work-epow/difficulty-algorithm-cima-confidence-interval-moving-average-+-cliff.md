@@ -10,7 +10,7 @@ The percentage figure used in CI stands for the range of distributions of the va
 
 ![A bell-shaped distribution curve diagram with confidence interval from Wikipedia](../../.gitbook/assets/normal_distribution_and_scales.gif)
 
-QWC's CIMA DA currently uses 68% confidence interval and this selection of 68% CI to allow DA to adjust DA more quickly.
+QWC's CIMA DA currently uses a 68% confidence interval and this selection of 68% CI to allow DA to adjust DA more quickly.
 
 Within a range of 30 block time, equivalent to 1 hour, a sample mean\(1\), and the standard deviation is calculated.
 
