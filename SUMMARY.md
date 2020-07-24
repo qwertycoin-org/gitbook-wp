@@ -34,9 +34,9 @@
 
 ## Blockchain Governance <a id="governance"></a>
 
-* [On-Chain Voting](governance/on-chain-voting.md)
 * [FATF Compliance](governance/fatf-compliance.md)
 * [10% Governance Tax](governance/10-governance-tax.md)
+* [On-Chain Voting](governance/on-chain-voting.md)
 
 ## Transactions
 
