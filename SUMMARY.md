@@ -20,7 +20,7 @@
   * [Introduction of EPoW block reward algorithm based on Consistency](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/README.md)
     * [An example of how QWC prevented CryptoNote block reward manipulation](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/qwc-prevented-cryptonote-block-reward-manipulation.md)
   * [Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average.md)
-  * [Difficulty Algorithm - CLIF \(Critical Level Impediment Failsafe\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cliff-yes-that-cliff.md)
+  * [Difficulty Algorithm - CLIF \(Critical Level Impediment Failsafe\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cliff.md)
 * [Transition from PoW to PoS](consensus/transition-from-pow-to-pos.md)
 * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos-hybrid-pos-dpos-1.md)
 * [Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW/EPoS](consensus/egalitarian-proof-of-service-epose-hybrid-epow-epos.md)
