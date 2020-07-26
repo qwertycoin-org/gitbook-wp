@@ -22,7 +22,9 @@ the value of consistency is 80 sec / 120 sec = 3/4  = 0.75.
 
 The block reward for finding block \#2 will reduce by 0.75X. Please find the method used to calculate block reward for block \#2 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
 
-This changes the block reward for block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.  
+This changes the block reward for block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.
+
+Under case 1, the miner is getting a proportional reward per second for their contribution.  
   
 Case 2\)  
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds,  
@@ -30,8 +32,10 @@ the value of consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.0
 
 The block reward for finding block \#3 will increase by 1.189X. Please find the method used to calculate block reward for block \#3 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
 
-This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.  
-  
+This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.
+
+Under case 2, the miner is getting more rewards for continuing their mining after design block time.
+
 **\* So, what improvements/benefits does this consistency bring to QWC?**
 
 The application of the consistency factor allows EPoW to fairly reward network participants \(under EPoW, miners\) based on their contributions to the QWC blockchain project while protecting the rewards from well-known majority attackers \(51% or 99% attack\) since miners do not gain anything by finding many blocks in a short period of time. 
