@@ -22,6 +22,7 @@
   * [Difficulty Algorithm - CIMA \(Confidence Interval Moving Average\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/README.md)
     * [Testnet Result](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result.md)
   * [Difficulty Algorithm - CLIF \(Critical Level Impediment Failsafe\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-clif.md)
+  * [About switching mining algorithm](consensus/egalitarian-proof-of-work-epow/about-switching-mining-algorithm.md)
 * [Transition from PoW to PoS](consensus/transition-from-pow-to-pos.md)
 * [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos/README.md)
   * [Proof of Stake](consensus/egalitarian-proof-of-stake-epos/proof-of-stake.md)
