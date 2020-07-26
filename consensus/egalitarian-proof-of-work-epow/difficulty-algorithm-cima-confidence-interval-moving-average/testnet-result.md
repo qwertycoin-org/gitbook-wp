@@ -18,11 +18,11 @@ The summary of this attack is as follow:
   
 So what about the number of coins the chain produced?  
   
-4. At the block height where the test was conducted, the average block reward was 347,500 per block. If the attack succeeded, the miner would have received 194.6 million coins as a minimum.  
+4. At the block height where the test was conducted, the average block reward was 347,500 QWC per block. If the attack succeeded, the miner would have received 194.6 million QWC as a minimum.  
   
-5. With CIMA+Consistency, the algorithm reduced the emission to 124.4 million coins.  
+5. With CIMA+Consistency, the algorithm reduced the emission to 124.4 million QWC.  
   
-6. If there were no attacks, the network would have released 166.8 million coins.  
+6. If there were no attacks, the network would have released 166.8 million QWC.  
   
 7. The miners are now incapable of breaking the ceiling value of emission...completely and forever.  
   
