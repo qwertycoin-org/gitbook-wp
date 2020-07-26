@@ -14,9 +14,9 @@ The solutions to this issue in the past were
 1. a certain amount of mining power is rented from Nicehash like services to lower the difficulty.  
 2. just wait long enough until a future block is found.
 
-The conventional DA\(Difficulty Algorithm\) is simply incapable of reacting to such an event due to inherent nature to forecast the future from historical data. 
+The conventional DA\(difficulty algorithm\) is simply incapable of reacting to such an event due to inherent nature to forecast the future from historical data. 
 
-CLIF stands for Critical Level Impediment Failsafe. It is an algorithm that is triggered when a long interval is detected between the last block time and the current block.
+CLIF stands for Critical Level Impediment Failsafe. Yes, it sounds similar to the word "cliff", and this DA is supposed to do just that. Drop difficulty. It is an algorithm that is triggered when a long interval is detected between the last block time and the current block.
 
 When triggered, a new block template is issued with an adjusted difficulty to allow miners to find blocks within a short period of delay.
 
