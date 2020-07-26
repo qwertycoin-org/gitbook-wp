@@ -24,7 +24,7 @@ The block reward for finding block \#2 will reduce by 0.75X. Please find the met
 
 This changes the block reward for block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.
 
-* Under case 1, the miner is getting a proportional reward per second for their contribution.
+* In case 1, the miner is getting a proportional reward per second for their contribution.
 
 Case 2\)  
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds,  
@@ -34,7 +34,7 @@ The block reward for finding block \#3 will increase by 1.189X. Please find the 
 
 This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.
 
-* Under case 2, the miner is getting more rewards for continuing their mining after design block time.
+* In case 2, the miner is getting more rewards for continuing their mining after design block time.
 
 **\* So, what improvements/benefits does this consistency bring to QWC?**
 
