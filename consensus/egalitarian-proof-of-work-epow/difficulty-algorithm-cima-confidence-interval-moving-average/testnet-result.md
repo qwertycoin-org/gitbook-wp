@@ -31,7 +31,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
   
 \#8. With CIMA+Consistency, the attacker found 360 blocks, yet the algorithm released 28.9 million QWC for 360 blocks.  
   
-\#9. If there were no attacks, the network would have found 80 blocks within the same period of time and released 30.7 million QWC for 88 blocks.
+\#9. If there were no attacks or the hash rate was consistent, the network would have found 80 blocks within the same period of time and released 30.7 million QWC for 88 blocks.
 
 **\[After DA reaching a proper range of difficulty level\]**  
   
@@ -41,7 +41,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
   
 \#11. With CIMA+Consistency, the algorithm released 97.9 million QWC. This is due to [a combination of case 1 and case 2](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency) of Consistency.  
   
-\#12. If there were no attacks, the network would have released 139.0 million QWC.  
+\#12. If there were no attacks or the hash rate was consistent, the network would have released 139.0 million QWC.  
 
 
 The miners are now incapable of breaking the ceiling value of emission...completely and forever. There is no additional gain on rewards from launching a majority attack to QWC network.
