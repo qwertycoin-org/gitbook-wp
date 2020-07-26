@@ -20,9 +20,9 @@ So what about the number of coins the chain produced?
   
 4. At the block height where the test was conducted, the average block reward was 347,500 per block. If attack succeeded, the miner would have received 194.6 million coins.  
   
-5. With CIMA+Consistency, we were able to reduce this to 124.4 million coins.  
+5. With CIMA+Consistency, the algorithm reduced the emission to 124.4 million coins.  
   
-6. If there were no attacks, we would have released 166.8 million coins.  
+6. If there were no attacks, the network would have released 166.8 million coins.  
   
 So, let's assume that you have the massive mining power and reading this part of whitepaper wanting to mine QWC. What is your choice? Attack or Join?
 
