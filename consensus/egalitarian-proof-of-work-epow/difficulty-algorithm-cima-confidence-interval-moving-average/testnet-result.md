@@ -45,7 +45,6 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
 
 
 The miners are now incapable of breaking the ceiling value of emission...completely and forever.   
-  
 On the other hand, network users enjoy faster block time. All their transactions were processed quicker.
 
 **Now, let's assume that you have or can rent a massive mining power and reading this part of whitepaper wanting to mine QWC. What is your choice? Attack or not?**
