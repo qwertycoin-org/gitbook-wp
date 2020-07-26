@@ -30,7 +30,7 @@ Case 2\)
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds,  
 the value of consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.00^\(0.25\) = 1.189.
 
-The block reward for finding block \#3 will increase by 1.189X. Please find the method used to calculate block reward for block \#3 [here](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/~/drafts/-MCv9PsnU_pw7XL59E4E/consensus/cryptonote-proof-of-work/cryptonote-block-reward-calculation).
+The block reward for finding block \#3 will increase by 1.189X. Please find the method used to calculate block reward for block \#3 [here](https://wp.qwertycoin.org/consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation).
 
 This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.
 
