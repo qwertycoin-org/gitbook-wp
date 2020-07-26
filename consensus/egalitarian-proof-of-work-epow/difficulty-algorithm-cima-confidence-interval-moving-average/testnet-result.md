@@ -8,7 +8,7 @@ The core team has tested CIMA and its performance up to 800X attack case scenari
 
 ![Difficulty graph when 800X hashrate increase](../../../.gitbook/assets/image.png)
 
-The summary of this attack is as follow  
+The summary of this attack is as follow:  
   
 1. QWC is designed to produce 720 blocks within 24 hour period. This is equivalent to 30 blocks per hour.   
   
