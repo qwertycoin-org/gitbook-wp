@@ -4,7 +4,7 @@ description: Last Update 2020-07-26
 
 # Testnet Result
 
-The core team has tested CIMA and its performance up to 800X attack case scenario.
+The core team has tested CIMA + Consistency and their performance up to 800X attack case scenario.
 
 ![Difficulty graph when 800X hashrate increase](../../../.gitbook/assets/image.png)
 
