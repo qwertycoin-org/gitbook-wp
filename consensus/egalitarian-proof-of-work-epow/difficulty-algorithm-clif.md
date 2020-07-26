@@ -6,7 +6,7 @@ description: Last Updated 2020-07-23
 
 While CIMA+Consistency with Poisson measure protects the blockchain from malicious intents to get rewards by using massive hash rates, it still does not solve another vector of attack, stalling the network itself.
 
-Although miners with large hash rates cannot gain profit from attacking QWC blockchain at all [\(an example\)](https://app.gitbook.com/@qwertycoin/s/qwertycoin-white-paper/consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result), attackers with the sole purpose of sabotaging the blockchain can increase the difficulty and drop out at any moment. 
+Although miners with large hash rates cannot gain profit from attacking QWC blockchain at all [\(an example\)](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result), attackers with the sole purpose of sabotaging the blockchain can increase the difficulty and drop out at any moment. 
 
 This creates a huge gap between blocks and halts the operation of blockchain for a long time, depending on the duration and the magnitude of attack\(s\). As a result, honest and long-term miners and wallet users are negatively affected.
 
