@@ -42,7 +42,9 @@ The core team has tested CIMA and its performance up to 800X attack case scenari
 \#12. If there were no attacks, the network would have released 166.8 million QWC.  
 
 
-The miners are now incapable of breaking the ceiling value of emission...completely and forever. The network users benefited from faster block time. All their transactions were processed quicker than due to attack.
+The miners are now incapable of breaking the ceiling value of emission...completely and forever.   
+  
+On the other hand, network users enjoy faster block time. All their transactions were processed quicker.
 
-**Let's assume that you have or can rent a massive mining power and reading this part of whitepaper wanting to mine QWC. What is your choice? Attack or not?**
+**Now, let's assume that you have or can rent a massive mining power and reading this part of whitepaper wanting to mine QWC. What is your choice? Attack or not?**
 
