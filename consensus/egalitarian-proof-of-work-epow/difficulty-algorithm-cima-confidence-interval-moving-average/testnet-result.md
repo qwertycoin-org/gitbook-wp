@@ -39,7 +39,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
   
 \#11. This 804.8 minute is equivalent to 402 block time with some safe margins. So after DA adjustment, the block time was consistent with the system design.  
   
-\#11. With CIMA+Consistency, the algorithm released 97.9 million QWC.  
+\#11. With CIMA+Consistency, the algorithm released 97.9 million QWC. This is due to [a combination of case 1 and case 2](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency) of Consistency.  
   
 \#12. If there were no attacks, the network would have released 139.0 million QWC.  
 
