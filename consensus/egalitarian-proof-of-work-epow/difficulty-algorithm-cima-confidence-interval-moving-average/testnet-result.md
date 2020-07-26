@@ -6,7 +6,7 @@ description: Last Update 2020-07-26
 
 The core team has tested CIMA + Consistency and their performance up to 800X attack case scenario.
 
-![Difficulty graph when 800X hashrate increase](../../../.gitbook/assets/image.png)
+![Difficulty graph when hashrate increased by 800X](../../../.gitbook/assets/image.png)
 
 **The overall summary of this attack is as follow:**  
   
@@ -21,11 +21,11 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
 
 **\[Within 360 blocks of attack period\]**  
   
-\#4. CIMA DA reached a proper range of difficulty level after 360 blocks. \(We know this because it is a controlled environment.\) The duration of these 360 blocks was 10,608 seconds, 176.8 minutes.   
+\#4. CIMA DA reached a proper range of difficulty after 360 blocks. \(We know this because it is a controlled environment.\) The duration of these 360 blocks was 10,608 seconds, 176.8 minutes.   
   
 \#5. This 176.8 minute is equivalent to 88 block time with some safe margins. So the attacker found an additional 280 blocks beyond the system design.  
   
-\#6. At the block height where the test was conducted, the average block reward was 347,500 QWC per block.   
+\#6. Within the range of block heights where the test was conducted, the average block reward was 347,500 QWC per block.   
   
 \#7. Without CIMA+Consistency, the attacker would have received a minimum of 125.1 million QWC for 360 blocks. This could scale to billions of QWC in the worst-case scenario.  
   
@@ -35,7 +35,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
 
 **\[After DA reaching a proper range of difficulty level\]**  
   
-\#10. At the block height where the test was conducted, the average block reward was 347,500 QWC per block. The duration of these 400 blocks \[760-360\] was 48,289 seconds, 804.8 minutes.  
+\#10. Within the range of block heights where the test was conducted, the average block reward was 347,500 QWC per block. The duration of these 400 blocks \[760-360\] was 48,289 seconds, 804.8 minutes.  
   
 \#11. This 804.8 minute is equivalent to 402 block time with some safe margins. So after DA adjustment, the block time was consistent with the system design.  
   
@@ -44,8 +44,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
 \#12. If there were no attacks, the network would have released 139.0 million QWC.  
 
 
-The miners are now incapable of breaking the ceiling value of emission...completely and forever.   
-On the other hand, network users enjoy faster block time. All their transactions were processed quicker.
+The miners are now incapable of breaking the ceiling value of emission...completely and forever. There is no additional gain on rewards from launching a majority attack to QWC network.
 
 **Now, let's assume that you have or can rent a massive mining power and reading this part of whitepaper wanting to mine QWC. What is your choice? Attack or not?**
 
