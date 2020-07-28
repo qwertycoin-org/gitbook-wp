@@ -16,7 +16,7 @@ The value of consistency can change between 0.08 to a maximum of 2.00.
 
 Now, let's take a look at how rewards change with Consistency under EPoW.  
   
-Case 1\)  
+**Case 1\)**  
 If the block time between block \#1 and \#2 \(timestamp of \#2 - timestamp of \#1\) = 80 seconds,  
 the value of consistency is 80 sec / 120 sec = 3/4  = 0.75.
 
@@ -26,7 +26,7 @@ This changes the block reward for block \#2 from the original reward of 351,843.
 
 * In case 1, the miner is getting a proportional reward per second for their contribution.
 
-Case 2\)  
+**Case 2\)**  
 If the block time between block \#2 and \#3 \(timestamp of \#3 - timestamp of \#2\) = 240 seconds,  
 the value of consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.00^\(0.25\) = 1.189.
 

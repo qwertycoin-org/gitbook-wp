@@ -6,7 +6,7 @@ description: Last Updated 2020-07-28
 
 Consolidation is a wallet feature that will literally consolidate all the inputs from previous incoming transactions to a smaller set \(preferably one set if continuously consolidated\) of outputs without changing the balance in the wallet.
 
-The benefits of consolidation   
+**The benefits of consolidation are:**  
   
 1. Transaction size: a single transaction with the amount of 500 million QWC is about 4kb. Now users can send a large number of coins without tx size limitation when and if necessary.
 

@@ -8,7 +8,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
 
 ![Difficulty graph when hashrate increased by 800X](../../../.gitbook/assets/image.png)
 
-**The overall summary of this attack is as follow:**  
+**The overall summary of this attack is:**  
   
 \#1. QWC is designed to produce 720 blocks within 24 hour period. This is equivalent to 30 blocks per hour.   
   
@@ -33,7 +33,7 @@ The core team has tested CIMA + Consistency and their performance up to 800X att
   
 \#9. If there were no attacks or the hash rate was consistent, the network would have found 80 blocks within the same period of time and released 30.7 million QWC for 88 blocks.
 
-**\[After DA reaching a proper range of difficulty level\]**  
+**\[After DA reaching a proper range of difficulty\]**  
   
 \#10. Within the range of block heights where the test was conducted, the average block reward was 347,500 QWC per block. The duration of these 400 blocks \[760-360\] was 48,289 seconds, 804.8 minutes.  
   
