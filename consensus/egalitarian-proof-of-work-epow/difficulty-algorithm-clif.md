@@ -22,5 +22,5 @@ When triggered, a new block template is issued with an adjusted difficulty to al
 
 The timing of the trigger is designed so that the amount of work versus reward yields the best consistency. 
 
-**CIMA + CLIF + Consistency + Poisson = A sustainable self-adjusting EPoW blockchain = QWC**
+**CIMA + CLIF + Consistency = A sustainable self-adjusting EPoW blockchain = QWC**
 
