@@ -4,7 +4,7 @@ description: Last Updated 2020-07-23
 
 # Introduction of EPoW block reward algorithm based on Consistency
 
-QWC introduces a new block reward algorithm that utilizes a time-based factor called 'consistency', multiplied to a standard CryptoNote\(CN\) block reward equation in order to adjust block rewards.
+QWC introduces a new block reward algorithm that utilizes a time-based factor called 'consistency'. This  factor is multiplied to a standard CryptoNote\(CN\) block reward equation in order to adjust block rewards.
 
 The block time between two adjacent blocks by default is 120 seconds.
 
