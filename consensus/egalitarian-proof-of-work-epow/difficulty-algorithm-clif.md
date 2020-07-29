@@ -4,7 +4,7 @@ description: Last Updated 2020-07-23
 
 # Difficulty Algorithm - CLIF \(Critical Level Impediment Failsafe\)
 
-While CIMA+Consistency with Poisson measure protects the blockchain from malicious intents to get rewards by using massive hash rates, it still does not solve another vector of attack, stalling the network itself.
+CIMA+Consistency protect the blockchain from malicious intents to get rewards by using massive hash rates, it still does not solve another vector of attack, stalling the network itself.
 
 Although miners with large hash rates cannot gain profit from attacking QWC blockchain at all [\(an example\)](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result), attackers with the sole purpose of sabotaging the blockchain can increase the difficulty and drop out at any moment. 
 
