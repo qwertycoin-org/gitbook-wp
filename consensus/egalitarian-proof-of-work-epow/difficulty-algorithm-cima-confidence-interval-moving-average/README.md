@@ -20,7 +20,7 @@ We then re-calculate the mean\(2\) of the filtered samples. We consider this mea
 
 In other cases, by comparing mean\(1\) and mean\(2\), the algorithm decides whether to increase or decrease the difficulty for the next block.
 
-With CIMA and Consistency with Poisson measure, QWC blockchain is bulletproof against the majority attacks and protects the network from any malicious intents. 
+With CIMA and Consistency, QWC blockchain is bulletproof against the majority attacks and protects the network from any malicious intents. 
 
  
 
