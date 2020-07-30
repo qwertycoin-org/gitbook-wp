@@ -15,7 +15,7 @@ Miners can choose how to mine depending on their hash rates.
 Group A\) If a miner with a good amount of hash rates, solo mining is the best.   
 Group B\) Miners with smaller hash rates have a better chance of finding a block when they pull their hash rates together to find blocks.
 
-Structure-wise, Group A is similar to PoS, and Group B is dPoS.  
+Structure-wise, Group A is similar to PoS, and Group B is similar to dPoS.  
 
 PoS implementation will have similar staking and reward system of other PoS coins.
 
