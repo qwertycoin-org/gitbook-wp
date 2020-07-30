@@ -6,7 +6,7 @@ description: Last Updated 2020-07-30
 
 The core team will update this section as more ideas become solid towards establishing EPoS. One thing that is sure at this point is that EPoS will be a hybrid form of Proof of Stake\(PoS\) / delegated Proof of Stake \(dPoS\).
 
-I find a lot of similarities between PoW and PoS in terms of their ecosystems.
+There are a lot of similarities between PoW and PoS in terms of their ecosystems.
 
 For example, If you look at how our or most PoW consensus ecosystem is formed, it has two distinct groups. One is a set of miners and the other is a set of pools. 
 
