@@ -21,7 +21,7 @@ PoS implementation will have similar staking and reward system of other PoS coin
 
 dPoS implementation will allow pool staking for those that have not enough coins to run a solo staking node. This gives the minorities a chance to have a representative for their share just like how we elect officers to delegate. 
 
-**`For those developers and idea suppliers to other cryptos.. stop copying without giving a proper credit. I see already two CN coins or maybe 3 cheating all the time. Shame on those copies. Implementations are poor and they did not think through. Just borrow names and terms and think they did it. Funny, right?`**
+**`For those developers and idea suppliers to other cryptos.. stop copying without giving a proper credit. I see already two CN coins or maybe 3 cheating all the time. Shame on those copies. Implementations are poor and they did not think through. The end realization is incomplete and they jump on to something else to create just hypes. No real work there. Just using names and terms does not make them right. Funny, right?`**
 
 More updates coming soon....
 
