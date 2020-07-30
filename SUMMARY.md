@@ -23,9 +23,7 @@
     * [Testnet Result](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result.md)
   * [Difficulty Algorithm - CLIF \(Critical Level Impediment Failsafe\)](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-clif.md)
 * [Transition from PoW to PoS](consensus/transition-from-pow-to-pos.md)
-* [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos/README.md)
-  * [Proof of Stake](consensus/egalitarian-proof-of-stake-epos/proof-of-stake.md)
-  * [Delegated Proof of Stake](consensus/egalitarian-proof-of-stake-epos/delegated-proof-of-stake.md)
+* [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos.md)
 * [Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW/EPoS](consensus/egalitarian-proof-of-service-epose-hybrid-epow-epos.md)
 
 ## Scalability

@@ -1,2 +1,0 @@
-# Delegated Proof of Stake
-
