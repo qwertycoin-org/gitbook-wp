@@ -23,5 +23,3 @@ dPoS implementation will allow pool staking for those that have not enough coins
 
 **`For those developers of other cryptos.. stop copying without giving a proper credit. I see already two CN coins or maybe 3 cheating all the time. Shame on those copies. Implementations are poor and they did not think through. The end realization is incomplete and they jump on to something else to create just hypes. No real work there. Just using names and terms does not make them right. Funny, right?`**
 
-
-
