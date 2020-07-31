@@ -8,11 +8,13 @@ QWC introduces Egalitarian Proof of Work \(EPoW\) for the first time in blockcha
 
 The core team found fundamental flaws in the original CryptoNote Proof of Work because it allowed miners, especially influential groups of miners, to get more coins. Also, difficulty algorithm \(DA\) was not carefully designed to cover many different cases that changed since CryptoNote whitepaper was released.
 
-QWC's EPoW greatly improves Byzantine Fault Tolerance in PoW consensus.  
-
-Among CryptoNote developers, some expressed concerns that the fact that the longer miners mine to find a block, the bigger the reward gets. Therefore, miners or pools is attracted to exploiting this point and get maximum rewards by setting the block timestamp in the future. This can drag mining difficulty down to the bottom as a side effect.
+QWC's EPoW greatly improves Byzantine Fault Tolerance in PoW consensus.
 
 **EPoW reward algorithm is designed so that any forged extra time posted by a malicious actor is rather penalized for every second compared to issuing a new block with the shortest timestamp for the next block. There are simply no incentives for them to do this. QWC does not consider this argument valid. A game theory analysis of miners' behavior leads to the expected result.**
 
-![Click to enlarge the table](../../.gitbook/assets/game-theory.png)
+We will simply state it this way. Don't cheat on mining and you will get the maximum rewards. 
+
+![Click to enlarge the table.](../../.gitbook/assets/game-theory.png)
+
+
 
