@@ -28,6 +28,5 @@ Now that we have protection on reward from attackers, implementation of CLIF is 
 
 When triggered, a new block template is issued with an adjusted difficulty to allow miners to find blocks within a short period of delay.The timing of the trigger is designed so that the amount of work versus reward yields the best consistency.
 
-**CIMA + CLIF + Consistency =   
-A manipulation proof, stainable, and self-adjusting EPoW blockchain = QWC**
+**CIMA + CLIF + Consistency = A stainable self-adjusting EPoW blockchain = QWC**
 
