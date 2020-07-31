@@ -35,7 +35,6 @@ The appropriate timing for this transition is to be decided by the community mem
   <thead>
     <tr>
       <th style="text-align:left">Transition Timing Table</th>
-      <th style="text-align:left">Proposal #8</th>
       <th style="text-align:left">Proposal #9</th>
       <th style="text-align:left">Proposal #10</th>
       <th style="text-align:left">Proposal #11</th>
@@ -45,7 +44,6 @@ The appropriate timing for this transition is to be decided by the community mem
   <tbody>
     <tr>
       <td style="text-align:left">QWC Block Height:</td>
-      <td style="text-align:left">700,000</td>
       <td style="text-align:left">900,000</td>
       <td style="text-align:left">1,000,000</td>
       <td style="text-align:left">1,500,000</td>
@@ -53,23 +51,20 @@ The appropriate timing for this transition is to be decided by the community mem
     </tr>
     <tr>
       <td style="text-align:left">Single Block Reward:</td>
-      <td style="text-align:left">92,500 QWC</td>
-      <td style="text-align:left">63,200 QWC</td>
-      <td style="text-align:left">52,000 QWC</td>
-      <td style="text-align:left">20,000 QWC</td>
-      <td style="text-align:left">7,750 QWC</td>
+      <td style="text-align:left">63,200</td>
+      <td style="text-align:left">52,000</td>
+      <td style="text-align:left">20,000</td>
+      <td style="text-align:left">7,750</td>
     </tr>
     <tr>
       <td style="text-align:left">24 Hour Block Reward:</td>
-      <td style="text-align:left">66,600,000 QWC</td>
-      <td style="text-align:left">45,504,000 QWC</td>
-      <td style="text-align:left">37,440,000 QWC</td>
-      <td style="text-align:left">14,400,000 QWC</td>
-      <td style="text-align:left">5,580,000 QWC</td>
+      <td style="text-align:left">45,504,000</td>
+      <td style="text-align:left">37,440,000</td>
+      <td style="text-align:left">14,400,000</td>
+      <td style="text-align:left">5,580,000</td>
     </tr>
     <tr>
       <td style="text-align:left">Expected Number of Mobil Users:</td>
-      <td style="text-align:left">700 Users</td>
       <td style="text-align:left">900 Users</td>
       <td style="text-align:left">1,000 Users</td>
       <td style="text-align:left">1,500 Users</td>
@@ -77,7 +72,6 @@ The appropriate timing for this transition is to be decided by the community mem
     </tr>
     <tr>
       <td style="text-align:left">Expected Storage Capacity:</td>
-      <td style="text-align:left">9 GB</td>
       <td style="text-align:left">11 GB</td>
       <td style="text-align:left">12 GB</td>
       <td style="text-align:left">17 GB</td>
@@ -85,7 +79,6 @@ The appropriate timing for this transition is to be decided by the community mem
     </tr>
     <tr>
       <td style="text-align:left">Expected Net Hash Rate:</td>
-      <td style="text-align:left">400.0 MH</td>
       <td style="text-align:left">500.0 MH</td>
       <td style="text-align:left">10.0 MH</td>
       <td style="text-align:left">15.0 MH</td>
@@ -96,15 +89,13 @@ The appropriate timing for this transition is to be decided by the community mem
         <p>Expected Daily Return of</p>
         <p>1K Hash Rate:</p>
       </td>
-      <td style="text-align:left">166.5 QWC</td>
-      <td style="text-align:left">5,056 QWC</td>
-      <td style="text-align:left">3,774 QWC</td>
-      <td style="text-align:left">960 QWC</td>
-      <td style="text-align:left">279 QWC</td>
+      <td style="text-align:left">5,056</td>
+      <td style="text-align:left">3,774</td>
+      <td style="text-align:left">960</td>
+      <td style="text-align:left">279</td>
     </tr>
     <tr>
       <td style="text-align:left">ASIC Mining Profitability*:</td>
-      <td style="text-align:left">QWC &gt; 0.0002 USD</td>
       <td style="text-align:left">QWC &gt; 0.0004 USD</td>
       <td style="text-align:left">QWC &gt; 0.0006 USD</td>
       <td style="text-align:left">QWC &gt; 0.0022 USD</td>
@@ -112,7 +103,6 @@ The appropriate timing for this transition is to be decided by the community mem
     </tr>
     <tr>
       <td style="text-align:left">CPU Mining / Node Profitability**:</td>
-      <td style="text-align:left">QWC &gt; 0.00004 USD</td>
       <td style="text-align:left">QWC &gt; 0.00008 USD</td>
       <td style="text-align:left">QWC &gt; 0.00012 USD</td>
       <td style="text-align:left">QWC &gt; 0.0004 USD</td>
@@ -120,7 +110,6 @@ The appropriate timing for this transition is to be decided by the community mem
     </tr>
     <tr>
       <td style="text-align:left">Expected Date of Height:</td>
-      <td style="text-align:left">2020.9.28</td>
       <td style="text-align:left">2021.7.3</td>
       <td style="text-align:left">2021.11.18</td>
       <td style="text-align:left">2023.10.14</td>
