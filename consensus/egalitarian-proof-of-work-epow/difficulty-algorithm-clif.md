@@ -10,7 +10,7 @@ description: Last Updated 2020-07-23
 
 As mentioned, CIMA+Consistency already protect the blockchain from the individuals with malicious intents to get block rewards by using massive hash rates. Yet, it still does not solve another vector of attack, stalling the network itself.
 
-Although miners with large hash rates cannot gain profit from attacking QWC blockchain at all [\(an example\)](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result), attackers with the sole purpose of sabotaging the blockchain can increase the difficulty and drop out at any moment. 
+Although miners with large hash rates cannot gain profits from attacking QWC blockchain at all [\(an example\)](https://wp.qwertycoin.org/consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-cima-confidence-interval-moving-average/testnet-result), attackers with the sole purpose of sabotaging the blockchain can increase the difficulty and drop out at any moment. 
 
 This creates a huge gap between blocks and halts the operation of blockchain for a long time. As a result, honest and long-term miners and wallet users are negatively affected.
 
