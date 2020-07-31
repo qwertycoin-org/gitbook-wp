@@ -18,7 +18,9 @@ We filter out those samples with a value that lies outside of mean +/- the stand
 
 We then re-calculate the mean\(2\) of the filtered samples. We consider this mean\(2\) a true mean value. If the values of the samples are within a range we consider 'consistent'\(remember we used the notion of consistency in our reward algorithm\), the difficulty for the next block will stay the same.
 
-In other cases, by comparing mean\(1\) and mean\(2\), the algorithm decides whether to increase or decrease the difficulty for the next block.
+In other cases, by comparing mean\(1\) and mean\(2\), the algorithm decides whether to increase or decrease the difficulty for the next block. 
+
+CIMA DA will create a simple harmonic motion under relaxed stability state around a particular band of values. Therefore, it can react to changes quickly upon detecting abnormalities. 
 
 With CIMA and Consistency, QWC blockchain is bulletproof against the majority attacks and protects the network from any malicious intents. 
 
