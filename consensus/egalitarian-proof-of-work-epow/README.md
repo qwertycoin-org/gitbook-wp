@@ -12,7 +12,7 @@ QWC's EPoW greatly improves Byzantine Fault Tolerance in PoW consensus.
 
 **EPoW reward algorithm is designed so that any forged extra time posted by a malicious actor is rather penalized for every second compared to issuing a new block with the shortest timestamp for the next block. There are simply no incentives for them to do this. QWC does not consider this argument valid. A game theory analysis of miners' behavior leads to the expected result.**
 
-We will simply state it this way. Don't cheat on mining and you will get the maximum rewards. 
+We will simply state it this way; don't cheat on mining and you will get the maximum rewards you deserve. 
 
 ![Click to enlarge the table.](../../.gitbook/assets/game-theory.png)
 
