@@ -4,6 +4,8 @@ description: Last Updated 2020-07-10
 
 # Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW/EPoS
 
+**`For those developers of other cryptos.. stop copying without giving a proper credit. I see already two CN coins or maybe 3 cheating all the time. Shame on those copies. Implementations are poor and they did not think through. The end realization is incomplete and they jump on to something else to create just hypes. No real work there. Just using names and terms does not make them right. Funny, right?`**
+
 QWC’s EPoSe is the first that introduces a consensus that recognizes all network contributors and has attributes to proportionate rewards based on their services as well as optimizing all levels of services to the latest regulatory and technical standards.
 
 The conventional structure of Proof of Work \(PoW\) or Proof of Stake \(PoS\) allows individuals either in single or in a group to have massive power over the blockchain’s consensus. This is called ‘centralization’. These types of consensus may seem appropriate in our free-market world because Return-on-Investment \(ROI\) must be satisfied or foreseeable in order to bring more attention on board and invest time and money for management and equipment respectively.

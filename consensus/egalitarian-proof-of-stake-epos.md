@@ -8,18 +8,19 @@ The core team will update this section as more ideas become solid towards establ
 
 There are a lot of similarities between PoW and PoS in the structure of their ecosystem.
 
-For example, If you look at how our or most PoW consensus ecosystem is formed, it has two distinct groups. One is a set of miners and the other is a set of pools. 
+For example, there are two distinct groups in PoW ecosystem; solo miners and pools with miners. 
 
 Miners can choose how to mine depending on their hash rates.  
   
-Group A\) If a miner with a good amount of hash rates, solo mining is the best.   
-Group B\) Miners with smaller hash rates have a better chance of finding a block when they pull their hash rates together to find blocks.
+**Group A**\) For a miner with high hash rates, solo mining is the best option.   
+**Group B**\) Miners with smaller hash rates have a better chance of finding a block when they collectively gather their hash rates together to find blocks in pools.
 
-Structure-wise, **Group A** is similar to **PoS**, and **Group B** is similar to **dPoS**.  
+During the conceptualization of PoS ecosystem, another two groups can be found.  
+  
+**Group A\)** Individuals with enough coins can run a staking masternode.  
+**Group B\)** Individuals with insufficient coins to run a staking masternode, should have a way to delegate their stakings to a particular node. The purpose of such delegations is for nominating a master node collectively with enough stakings to permit a masternode status, similar to how a pool operates.
 
-PoS implementation will have similar staking and reward system of other PoS coins.
+QWC's PoS part of the implementation will have similar staking and reward system of other PoS coins. dPoS implementation will allow pool staking for those with insufficient number of coins to run a solo staking node. 
 
-dPoS implementation will allow pool staking for those that have not enough coins to run a solo staking node. This feature will provide a chance to have a representative for the minority's shares in EPoS ecosystem.
-
-**`For those developers of other cryptos.. stop copying without giving a proper credit. I see already two CN coins or maybe 3 cheating all the time. Shame on those copies. Implementations are poor and they did not think through. The end realization is incomplete and they jump on to something else to create just hypes. No real work there. Just using names and terms does not make them right. Funny, right?`**
+This feature will provide a chance to have a representative for the minority's shares in EPoS ecosystem.
 
