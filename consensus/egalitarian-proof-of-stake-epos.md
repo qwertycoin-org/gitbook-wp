@@ -18,7 +18,7 @@ Miners can choose how to mine depending on their hash rates.
 During the conceptualization of PoS ecosystem, another two groups can be found.  
   
 **Group A\)** Individuals with enough coins can run a staking masternode.  
-**Group B\)** Individuals with insufficient coins to run a staking masternode, should have a way to delegate their stakings to a particular node. The purpose of such delegations is for nominating a master node collectively with enough stakings to permit a masternode status, similar to how a pool operates.
+**Group B\)** Individuals with insufficient coins to run a staking masternode, should have a way to delegate their stakings to a particular node. The purpose of such delegations is for nominating a master node collectively with enough stakings to permit a masternode status, similar to how a pool can find a block with a group of smaller miners.
 
 QWC's PoS part of the implementation will have similar staking and reward system of other PoS coins. dPoS implementation will allow pool staking for those with insufficient number of coins to run a solo staking node. 
 
