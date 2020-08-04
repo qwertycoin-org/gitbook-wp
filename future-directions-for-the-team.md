@@ -95,11 +95,7 @@ Through EPoSe in place, there will be an infinite circulation of incentives amon
 
 B-4. Governance
 
-The most important part of governance is the incentive system for participants. Please refer to EpoW and EPoSe sections of this white paper.
 
-Unless Process Automation or AI takes over the entire development and implementation of new features or updates, QWC blockchain will have a centralized authority run by humans that develops features, manages implementations/updates, and provides support for the service.
-
-QWC team \(a centralized authority that consists of a group of people who volunteer to provide services\) reflects the decisions of QWC community through a community voting system. All QWC members can participate in making community-wide decisions.
 
 \*\*\*\*
 
