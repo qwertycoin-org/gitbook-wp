@@ -14,6 +14,8 @@ Area B: An area that is bound by CN block reward schedule after 120 seconds of m
 
 Area C1 - C6: An area where block rewards will increase after 120 seconds of mining. The current block reward algorithm is set to adjust the consistency factor using a power of 1/4.
 
+Y-axis represents consistency. If consistency is equal to 1, that means the reward is equal to design block reward, which is decreasing every block.
+
 **To demonstrate the changes, the same data set was used from the example of manipulation under CN block reward schedule.**
 
 \[Table 2. An example of mining rewards based on EPoW block reward algorithm between block 500,000 and 500,019\]
