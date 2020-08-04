@@ -40,5 +40,5 @@ This changes the block reward for block \#2 from the original reward of 351,842.
 
 The application of the consistency factor allows EPoW to fairly reward network participants \(under EPoW, miners\) based on their contributions to the QWC blockchain project while protecting the rewards from well-known majority attackers \(51% or 99% attack\) since miners do not gain anything by finding many blocks in a short period of time. 
 
-Along with CIMA and CLIFF, the effectiveness of consistency will only increase and the security of the network will be reinforced greatly. A significant milestone in crypto space for achieving something others have failed to implement in PoW.
+Along with CIMA and CLIF, the effectiveness of consistency will only increase and the security of the network will be reinforced greatly. A significant milestone in crypto space for achieving something others have failed to implement in PoW.
 
