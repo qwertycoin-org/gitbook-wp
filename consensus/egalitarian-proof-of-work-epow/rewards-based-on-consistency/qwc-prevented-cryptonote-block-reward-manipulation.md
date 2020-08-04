@@ -16,7 +16,7 @@ Area C1 - C6: An area where block rewards will increase after 120 seconds of min
 
 Y-axis represents consistency. If consistency is equal to 1, that means the reward is equal to design block reward, which is decreasing every block.
 
-**To demonstrate the changes, the same data set was used from the example of manipulation under CN block reward schedule.**
+**To demonstrate the changes, the same data set was used from** [**the example of manipulation under CN block reward schedule.**](https://wp.qwertycoin.org/consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation/cn-block-reward-schedule-manipulation)\*\*\*\*
 
 \[Table 2. An example of mining rewards based on EPoW block reward algorithm between block 500,000 and 500,019\]
 
