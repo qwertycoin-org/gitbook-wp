@@ -30,7 +30,7 @@
 
 ## Scalability
 
-* [Genesis Reference Block](scalability/feature-genesis-reference-block.md)
+* [Genesis Reference Block\(GRB\)](scalability/feature-genesis-reference-block.md)
 * [Consolidation](scalability/consolidation.md)
 
 ## Blockchain Governance <a id="governance"></a>
