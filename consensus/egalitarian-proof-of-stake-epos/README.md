@@ -15,7 +15,7 @@ Miners can choose how to mine depending on their hash rates.
 **Group A**\) For a miner with high hash rates, solo mining is the best option.   
 **Group B**\) Miners with smaller hash rates have a better chance of finding a block when they collectively gather their hash rates together to find blocks in pools.
 
-In PoS, two groups of participants will be formed like PoW.  
+In PoS, there will be two groups of participants like PoW.  
   
 **Group A\)** Individuals with enough coins can run a staking masternode.  
 **Group B\)** Individuals with insufficient coins to run a staking masternode, willing to delegate their stakings to a particular node. The purpose of such delegations is for nominating a master node collectively with enough stakings to acquire a masternode status, similar to how a pool can find a block with a group effort of smaller miners.
