@@ -6,7 +6,7 @@ description: Last Updated 2020-07-28
 
 Consolidation is a solution for the wallet-side scalability.
 
-Consolidation is a wallet feature that will literally consolidate all the inputs from previous incoming transactions to a smaller set \(preferably one set if continuously consolidated\) of outputs without changing the balance in the wallet.
+Consolidation is a wallet feature that will literally consolidate all the UTXOs\(Unspent Transaction Outputs\) from previous incoming transactions to a smaller set \(preferably one set if continuously consolidated\) of outputs without changing the balance in the wallet.
 
 **The benefits of consolidation are:**  
   
