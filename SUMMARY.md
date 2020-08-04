@@ -25,7 +25,8 @@
     * [Testnet Result](consensus/egalitarian-proof-of-work-epow/difficulty-algorithm-clif/testnet-result.md)
   * [Do you want to make EPoW more egalitarian by switching mining algorithm?](consensus/egalitarian-proof-of-work-epow/do-you-want-to-make-epow-more-egalitarian-by-switching-mining-algorithm.md)
 * [Transition from PoW to PoS](consensus/transition-from-pow-to-pos.md)
-* [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos.md)
+* [Egalitarian Proof of Stake \(EPoS\) - Hybrid PoS/dPoS](consensus/egalitarian-proof-of-stake-epos/README.md)
+  * [Sharding](consensus/egalitarian-proof-of-stake-epos/sharding.md)
 * [Egalitarian Proof of Service \(EPoSe\) - Hybrid EPoW/EPoS](consensus/egalitarian-proof-of-service-epose-hybrid-epow-epos.md)
 
 ## Scalability
