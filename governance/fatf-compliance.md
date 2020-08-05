@@ -10,7 +10,7 @@ We strongly advise our users not to make transactions for such activities. Pleas
 
 FATF recently announced a recommendation for travel rule for cryptocurrencies.
 
-They realized that they cannot exercise control over blockchain itself so they announced a traceability guideline for cryptocurrency exchanges. The travel rule requires KYC and all transactional information stored for audits, imposing taxes and to prevent money laundering.
+They realized that they cannot exercise control over blockchain so they announced a traceability guideline for cryptocurrency exchanges. The travel rule requires KYC and all transactional information stored for audits, imposing taxes and to prevent money laundering.
 
 This however will become useless once on-chain trading feature is available.
 
