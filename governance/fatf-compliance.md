@@ -8,15 +8,17 @@ FATF stands for Financial Action Task Force and is an intergovernmental organiza
 
 We strongly advise our users not to make transactions for such activities. Please use fiat cash for that.
 
-FATF recently announced a recommendation for travel rule for cryptocurrencies.
+FATF recently announced a recommendation for travel rule for cryptocurrencies. They realized that they cannot exercise control over blockchain so they announced a traceability guideline for cryptocurrency exchanges. The travel rule requires KYC and all transactional information stored for audits, imposing taxes and to prevent money laundering.
 
-They realized that they cannot exercise control over blockchain so they announced a traceability guideline for cryptocurrency exchanges. The travel rule requires KYC and all transactional information stored for audits, imposing taxes and to prevent money laundering.
+\(i\) originator’s name \(i.e., the sending customer\); - **KYC @ exchanges**  
+\(ii\) originator’s account number where such an account is used to process the transaction \(e.g., the VA wallet\); - **transactional information**  
+\(iii\) originator’s physical \(geographical\) address, or national identity number, or customer identification number \(i.e., not a transaction number\) that uniquely identifies the originator to the ordering institution, or date and place of birth; - **KYC @ exchanges**  
+\(iv\) beneficiary’s name; and - **transactional information**  
+\(v\) beneficiary account number where such an account is used to process the transaction \(e.g., the VA wallet\). - **transactional information**
 
 This however will become useless once on-chain trading feature is available.
 
-Qwertycoin project is an open source development activity of a P2P digital currency. It is anonymous, secure, fast, permissionless and trustless. These properties of most cryptocurrencies poses a threat to governments because the currency can be used for illegal activities and there is no way to 'control' those transactions.
 
-The concept of money is like the credits individuals have from each issuing countries. It also can be ceased by them so, the credit is not really yours after all. So the cash \(offline paper bills and coins\) are popular means to store credits.
 
 
 
