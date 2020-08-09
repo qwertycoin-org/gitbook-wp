@@ -12,5 +12,5 @@ CLIF does not drop algorithm instantly but gradually over time. The X-axis repre
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-After CLIF has adjusted difficulty, the miners were able to find blocks after a short downtime and no interference from the core team to offset the stagnation from the 800X attack.
+After CLIF adjusted difficulty, the miners were able to find blocks after a short downtime and there was no interference from the core team to offset the stagnation from the 800X attack.
 
