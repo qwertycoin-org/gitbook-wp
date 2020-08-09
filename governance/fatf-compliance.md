@@ -16,7 +16,7 @@ FATF recently announced a recommendation; travel rule for cryptocurrencies. They
 \(iv\) beneficiary’s name; and - **transactional information**  
 \(v\) beneficiary account number where such an account is used to process the transaction \(e.g., the VA wallet\). - **transactional information**
 
-This however will become useless once on-chain trading feature is available.
+These measures, however, will become useless once on-chain trading is available.
 
 
 
