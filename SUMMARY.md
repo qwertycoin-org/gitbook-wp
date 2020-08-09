@@ -44,9 +44,9 @@
 ## Transactions + Contracts <a id="transactions"></a>
 
 * [Time Locked Transactions](transactions/feature-time-locked-transactions.md)
+* [On-Chain Trade](transactions/feature-on-chain-trade.md)
 * [Multi-Signature](transactions/multi-signature-transactions.md)
 * [Long Term Savings](transactions/long-term-saving.md)
-* [On-Chain Trade](transactions/feature-on-chain-trade.md)
 
 ## Features
 
