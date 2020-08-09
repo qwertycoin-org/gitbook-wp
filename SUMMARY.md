@@ -41,11 +41,11 @@
 * [10% Governance Tax](governance/10-governance-tax.md)
 * [On-Chain Voting](governance/on-chain-voting.md)
 
-## Transactions
+## Transactions + Contracts <a id="transactions"></a>
 
 * [Time Locked Transactions](transactions/feature-time-locked-transactions.md)
 * [Multi-Signature](transactions/multi-signature-transactions.md)
-* [Long Term Saving](transactions/long-term-saving.md)
+* [Long Term Savings](transactions/long-term-saving.md)
 * [On-Chain Trade](transactions/feature-on-chain-trade.md)
 
 ## Features
