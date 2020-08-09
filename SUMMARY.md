@@ -41,12 +41,15 @@
 * [10% Governance Tax](governance/10-governance-tax.md)
 * [On-Chain Voting](governance/on-chain-voting.md)
 
-## Transactions + Contracts <a id="transactions"></a>
+## DeFi Tranasactions <a id="defi"></a>
 
-* [Time Locked Transactions](transactions/feature-time-locked-transactions.md)
-* [On-Chain Trade](transactions/feature-on-chain-trade.md)
-* [Multi-Signature](transactions/multi-signature-transactions.md)
-* [Long Term Savings](transactions/long-term-saving.md)
+* [Time Locked Transactions](defi/feature-time-locked-transactions.md)
+* [On-Chain Trade](defi/feature-on-chain-trade.md)
+* [Long Term Savings](defi/long-term-saving.md)
+
+## Smart Contracts
+
+* [Multi-Signature](smart-contracts/multi-signature-transactions.md)
 
 ## Features
 
