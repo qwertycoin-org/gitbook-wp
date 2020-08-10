@@ -16,9 +16,6 @@ QWC developers and communities shall find work towards to get below all five pro
 
 * High Scalability
 * Interoperability
-* Sustainability
-* Privacy
-* Governance
 
 B-1. High Scalability
 
@@ -88,14 +85,4 @@ C2F / F2C Transaction \(Coin to Fiat / Fiat to Coin Exchange\)
 For this type of trade, It is important to inform our members that your registrations on exchange platforms with personal information such as ID and bank/credit card accounts will/can expose your identity and your actions and outcomes from trading activities can be subjected to applicable laws and regulations. We are dealing with centralized currencies and their systems in the end. This service is not an option for QWC network.
 
 For cryptocurrency to fiat exchanges, it would be the best to have local stores and businesses to engage and host an individual/independent exchange to allow a more decentralized network of QWC blockchain. There will be no requirement of personal information for this type of transaction.
-
-B-3. Sustainability
-
-Through EPoSe in place, there will be an infinite circulation of incentives among network service providers and it will energy-wise more efficient for our environments. QWC blockchain and its infrastructure are supported by the core team and the source code is provided as an open source on Github for 3rd party integration. The more 3rd parties’ services are provided, the less involvement of the core team will take place in the service.
-
-B-4. Governance
-
-
-
-\*\*\*\*
 

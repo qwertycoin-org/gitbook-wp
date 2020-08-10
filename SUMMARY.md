@@ -38,7 +38,7 @@
 ## Blockchain Governance <a id="governance"></a>
 
 * [FATF Compliance](governance/fatf-compliance.md)
-* [10% Governance Fee](governance/10-governance-tax.md)
+* [10% Governance Fee](governance/10-governance-fee.md)
 * [On-Chain Voting](governance/on-chain-voting.md)
 
 ## DeFi Tranasactions <a id="defi"></a>
