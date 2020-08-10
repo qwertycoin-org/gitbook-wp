@@ -12,5 +12,5 @@ The X-axis represents each block height, so it does not show how long it took to
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-After CLIF adjusted difficulty, the miners were able to find blocks after a short downtime.There was no interference from the core team to offset the stagnation from the 800X attack.
+After CLIF adjusted difficulty, the miners were able to find blocks after a short downtime. There was no interference from the core team to offset the stagnation from the 800X attack.
 
