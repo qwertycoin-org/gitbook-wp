@@ -8,7 +8,7 @@ CLIF dropped difficulty over time until miners are able to find a block within t
 
 ![The drop at the far right side of the graph indicates CLIF algorithm.](../../../.gitbook/assets/image%20%282%29.png)
 
-CLIF does not drop algorithm instantly but gradually over time. The X-axis represents each block height, so it does not show how long it took to find the block after CLIF is triggered.
+The X-axis represents each block height, so it does not show how long it took to find the block after CLIF is triggered.
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
