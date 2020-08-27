@@ -14,8 +14,8 @@
 ## Consensus
 
 * [\[Outdated\] CryptoNote Proof of Work](consensus/cryptonote-proof-of-work/README.md)
-  * [CryptoNote block reward scheme calculation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation/README.md)
-    * [An example of CryptoNote block reward schedule manipulation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation/cn-block-reward-schedule-manipulation.md)
+  * [CryptoNote block reward scheme calculation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-scheme-calculation/README.md)
+    * [An example of CryptoNote block reward scheme manipulation](consensus/cryptonote-proof-of-work/cryptonote-block-reward-scheme-calculation/cn-block-reward-scheme-manipulation.md)
 * [Egalitarian Proof of Work \(EPoW\)](consensus/egalitarian-proof-of-work-epow/README.md)
   * [Introduction of EPoW block reward algorithm based on Consistency](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/README.md)
     * [An example of how QWC prevented CryptoNote block reward manipulation](consensus/egalitarian-proof-of-work-epow/rewards-based-on-consistency/qwc-prevented-cryptonote-block-reward-manipulation.md)
