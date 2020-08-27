@@ -6,7 +6,7 @@ description: Last Updated 2020-07-23
 
 \[Figure 6. Block Reward Adjustment using consistency\] 
 
-![Mining Reward Graph after EPoW \(Area A to C6\)](../../../.gitbook/assets/epow-reward-graph-area-marking.png)
+![Mining Reward Graph after EPoW \(Area A to C6\), Consistency value of 1 stands for a full block reward.](../../../.gitbook/assets/epow-reward-graph-area-marking.png)
 
 Area A: An area where miners can take more coins per second if find a block within 120 seconds.  
   
