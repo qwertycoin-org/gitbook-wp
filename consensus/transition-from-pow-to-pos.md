@@ -39,7 +39,5 @@ The appropriate timing for this transition is to be decided by the community mem
 | Expected Number of Mobil Users: | 900 Users | 1,000 Users | 1,500 Users | 2,000 Users |
 | Expected Storage Capacity: | 8 GB | 8.5 GB | 10 GB |  12 GB |
 | Expected Net Hash Rate: | 100.0 MH | 200.0 MH | 300.0 MH | 400.0 MH |
-| ASIC Mining Profitability\*: | QWC &gt; 0.0004 USD | QWC &gt; 0.0006 USD | QWC &gt; 0.0022 USD | QWC &gt; 0.008 USD |
-| CPU Mining / Node Profitability\*\*: | QWC &gt; 0.00008 USD | QWC &gt; 0.00012 USD | QWC &gt; 0.0004 USD | QWC &gt; 0.0016 USD |
 | Expected Date of Height: | 2021.7.3 | 2021.11.18 | 2023.10.14 | 2025.9.7 |
 
