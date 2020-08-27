@@ -22,7 +22,7 @@ the value of consistency is 80 sec / 120 sec = 3/4  = 0.75.
 
 The block reward for finding block \#2 will reduce by 0.75X. Please find the method used to calculate block reward for block \#2 [here](https://wp.qwertycoin.org/consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation).
 
-This changes the block reward for block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.
+This changes the block reward of block \#2 from the original reward of 351,843.72088831 QWC to 351,843.72088831 QWC x 0.75 = 263,882.79066623 QWC.
 
 * In case 1, the miner is getting a proportional reward per second for their contribution.
 
@@ -32,7 +32,7 @@ the value of consistency is \(240 sec / 120 sec\)^\(0.25\) = 2.00^\(1/4\) or 2.0
 
 The block reward for finding block \#3 will increase by 1.189X. Please find the method used to calculate block reward for block \#3 [here](https://wp.qwertycoin.org/consensus/cryptonote-proof-of-work/cryptonote-block-reward-schedule-calculation).
 
-This changes the block reward for block \#2 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.
+This changes the block reward of block \#3 from the original reward of 351,842.37871104 QWC to 351,842.37871104 QWC x 1.189 = 418,340.58828743 QWC.
 
 * In case 2, the miner is getting more rewards for continuing their mining after design block time, but less reward per second when they find a block before 121 seconds.
 
