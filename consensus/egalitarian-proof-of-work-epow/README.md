@@ -10,7 +10,7 @@ The core team found fundamental flaws in the original CryptoNote Proof of Work b
 
 QWC's EPoW greatly improves Byzantine Fault Tolerance in PoW consensus.
 
-**EPoW reward algorithm is designed so that any forged extra time posted by a malicious actor is rather penalized for every second compared to issuing a new block with the shortest timestamp for the next block. There are simply no incentives for them to do this.**
+**EPoW reward algorithm is designed so that any forged extra time posted by a malicious actor is rather penalized for every second compared to issuing a new block with the shortest timestamp for the next block. There are simply no incentives for malicious actors to do this.**
 
 We will simply state it this way; don't cheat on mining and you will get the maximum rewards you deserve. 
 
