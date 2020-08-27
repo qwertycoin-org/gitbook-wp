@@ -4,7 +4,7 @@ description: Last Updated 2020-06-16
 
 # Blockchain Development Roadmap
 
-**Stage 1: Currency Application Development \(2017 – By the end of 2019\)**
+**Stage 1: Currency Application Development \(2017 – By the end of 2019\) - All Complete**
 
 * Daemon Development and Optimization
 * CLI Wallet / Desktop Wallet Development and Optimization
@@ -21,7 +21,7 @@ description: Last Updated 2020-06-16
 * Release of Web Wallet and Mobile Wallet
 * Multi-language support for wallets
 
-**Stage 2: Currency + Application Development \(2020 – By the end of 2022\)**
+**Stage 2: Currency + Application Development \(2020 – By the end of 2022\) - Current Phase**
 
 * Consensus Update \(EPoW Implementation\)
   * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm - Complete
