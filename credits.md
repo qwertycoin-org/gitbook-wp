@@ -52,7 +52,7 @@ This section provides information about QWC Core Team members and contributors. 
 
 \*\*\*\*
 
-![Full Access to Gitbook FEatures for Qwertycoin Documentation and Whitepaper Pages](.gitbook/assets/logotext.svg)
+![Full Access to Gitbook Features for Qwertycoin Documentation and Whitepaper Pages](.gitbook/assets/logotext.svg)
 
 
 
@@ -60,5 +60,5 @@ This section provides information about QWC Core Team members and contributors. 
 
 
 
-Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service
+Please contribute to our cause and goals with your knowledge and service and we will gladly list your contribution and credits on this page. Everyone can participate in QWC project and be a part of building a blockchain service for the people.
 
