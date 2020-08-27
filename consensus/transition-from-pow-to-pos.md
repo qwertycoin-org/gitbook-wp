@@ -29,7 +29,7 @@ The appropriate timing for this transition is to be decided by the community mem
 
 ![](../.gitbook/assets/2.png)
 
-\[Table 3. Expected profitability from EPoW under ASIC mining environment and Transition timing proposal from EPoW to EPoSe\]
+\[Table 3. Expected profitability from EPoW under ASIC mining environment and Transition timing proposal from EPoW to EPoS\]
 
 <table>
   <thead>
