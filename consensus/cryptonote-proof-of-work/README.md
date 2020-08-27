@@ -6,9 +6,9 @@ description: Last Updated 2020-07-04
 
 QWC blockchain project is an open-source project and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
 
-CryptoNote Technology V2.0 has a built-in block reward system called ‘emission rate’. It is a shape of log function and, because of its original design, **QWC block rewards will reduce by each block found and eventually reach a point called ‘tail emission’.**
+CryptoNote Technology V2.0 has a built-in block reward system called ‘emission rate’. It is a shape of log function and, because of its original design, **QWC block rewards will reduce by each block and eventually reach a point called ‘tail emission’.**
 
-QWC has an emission factor of 19. Please refer to below graphs to see how block rewards are reduced over time.
+QWC has an emission factor of 19. Please refer to the below graphs to see how block rewards are reduced over time.
 
 The default equation for calculating block rewards for CryptoNote is as follows:
 
