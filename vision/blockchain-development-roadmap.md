@@ -24,9 +24,9 @@ description: Last Updated 2020-06-16
 **Stage 2: Currency + Application Development \(2020 – By the end of 2022\)**
 
 * Consensus Update \(EPoW Implementation\)
-  * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm
-  * CLIF \(Critical Level Impedance Failsafe\) Difficulty Algorithm
-  * New Block Reward Algorithm with Consistency
+  * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm - Complete
+  * CLIF \(Critical Level Impedance Failsafe\) Difficulty Algorithm - Complete
+  * New Block Reward Algorithm with Consistency - Complete
 * Consensus Update \(EPoS Implementation\)
   * New Block Construction Method \(Hybrid PoS/dPoS\)
   * New Stake Reward Algorithm 
