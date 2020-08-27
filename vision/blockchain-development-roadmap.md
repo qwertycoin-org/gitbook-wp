@@ -25,7 +25,8 @@ description: Last Updated 2020-06-16
 
 * Consensus Update \(EPoW Implementation\)
   * CIMA \(Confidence Interval Moving Average\) Difficulty Algorithm
-  * New Block Reward Algorithm
+  * CLIF \(Critical Level Impedance Failsafe\) Difficulty Algorithm
+  * New Block Reward Algorithm with Consistency
 * Consensus Update \(EPoS Implementation\)
   * New Block Construction Method \(Hybrid PoS/dPoS\)
   * New Stake Reward Algorithm 
