@@ -22,11 +22,11 @@ Depending on the duration and the magnitude of attack\(s\), the previous solutio
 
 This type of difficulty adjustment was not possible because  
 1. such action exposed the network's block rewards to centralized groups and influential miners.  
-2. the conventional DA\(difficulty algorithm\) is simply incapable of reacting to such an event due to inherent nature to forecast the future from historical data.
+2. the conventional DA\(difficulty algorithm\) is simply incapable of reacting to such an event due to the inherent nature to forecast the future from historical data.
 
-Now that we have protection on reward from attackers, implementation of CLIF is possible.
+Now that we have the protection of reward from attackers, implementation of CLIF is possible.
 
-When triggered, a new block template is issued with an adjusted difficulty to allow miners to find blocks within a short period of delay.The timing of the trigger is designed so that the amount of work versus reward yields the best consistency.
+When triggered, a new block template is issued with an adjusted difficulty to allow miners to find blocks within a short period of delay. The timing of the trigger is designed so that the amount of work versus reward yields the best consistency.
 
 **CIMA + CLIF + Consistency = A stainable self-adjusting EPoW blockchain = QWC**
 
