@@ -20,7 +20,7 @@ We then re-calculate the mean\(2\) of the filtered samples. We consider the mean
 
 In other cases, by comparing mean\(1\) and mean\(2\), the algorithm decides whether to increase or decrease the difficulty for the next block. 
 
-CIMA DA undergoes relaxed stability state and oscillates in a simple harmonic motion around particular centerline values. As a result, it can react to changes quickly upon detecting abnormalities. 
+CIMA DA undergoes a relaxed stability state and oscillates in a simple harmonic motion around particular centerline values. As a result, it can quickly react to changes upon detecting abnormalities. 
 
 With CIMA DA and Consistency, QWC blockchain is bulletproof against the majority attacks and protects the network from any malicious intents. 
 
