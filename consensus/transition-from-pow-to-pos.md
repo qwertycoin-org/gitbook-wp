@@ -31,13 +31,13 @@ The appropriate timing for this transition is to be decided by the community mem
 
 \[Table 3. Expected profitability from EPoW under ASIC mining environment and Transition timing proposal from EPoW to EPoS\]
 
-| Transition Timing Table | Proposal \#9 | Proposal \#10 | Proposal \#11 | Proposal \#12 |
-| :--- | :--- | :--- | :--- | :--- |
-| QWC Block Height: | 900,000 | 1,000,000 | 1,500,000 | 2,000,000 |
-| Single Block Reward: | 63,200 | 52,000 | 20,000 | 7,750 |
-| 24 Hour Block Reward: | 45,504,000  | 37,440,000  | 14,400,000 | 5,580,000 |
-| Expected Number of Mobil Users: | 2000 Users | 3,000 Users | 4,500 Users | 7,000 Users |
-| Expected Storage Capacity: | 8 GB | 8.5 GB | 10 GB |  12 GB |
-| Expected Net Hash Rate: | 100.0 MH | 200.0 MH | 300.0 MH | 400.0 MH |
-| Expected Date of Height: | 2021.7.3 | 2021.11.18 | 2023.10.14 | 2025.9.7 |
+| Transition Timing Table | Proposal \#10 | Proposal \#11 | Proposal \#12 |
+| :--- | :--- | :--- | :--- |
+| QWC Block Height: | 1,000,000 | 1,500,000 | 2,000,000 |
+| Single Block Reward: | 52,000 | 20,000 | 7,750 |
+| 24 Hour Block Reward: | 37,440,000  | 14,400,000 | 5,580,000 |
+| Expected Number of Mobil Users: | 3,000 Users | 4,500 Users | 7,000 Users |
+| Expected Storage Capacity: | 8.5 GB | 10 GB |  12 GB |
+| Expected Net Hash Rate: | 200.0 MH | 300.0 MH | 400.0 MH |
+| Expected Date of Height: | 2021.11.18 | 2023.10.14 | 2025.9.7 |
 
