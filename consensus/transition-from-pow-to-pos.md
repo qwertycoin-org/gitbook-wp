@@ -38,6 +38,6 @@ The appropriate timing for this transition is to be decided by the community mem
 | 24 Hour Block Reward: | 37,440,000  | 14,400,000 | 5,580,000 |
 | Expected Number of Mobile Users: | 3,000 Users | 4,500 Users | 7,000 Users |
 | Expected Storage Capacity: | 8.5 GB | 10 GB |  12 GB |
-| Expected Net Hash Rate: | 200.0 MH | 300.0 MH | 400.0 MH |
+| Expected Net Hash Rate: | 100.0 MH | 150.0 MH | 200.0 MH |
 | Expected Date of Height: | 2021.11.18 | 2023.10.14 | 2025.9.7 |
 
