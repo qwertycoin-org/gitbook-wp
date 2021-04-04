@@ -50,6 +50,7 @@
 ## Smart Contracts
 
 * [Multi-Signature](smart-contracts/multi-signature-transactions.md)
+* [NFT\(Non Fungible Token\)](smart-contracts/nft-non-fungible-token.md)
 
 ## Features
 
