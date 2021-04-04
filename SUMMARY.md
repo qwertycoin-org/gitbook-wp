@@ -31,7 +31,7 @@
 
 ## Scalability
 
-* [Genesis Reference Block\(GRB\)](scalability/feature-genesis-reference-block.md)
+* [Genesis Reference Block \(GRB\)](scalability/grb.md)
 * [Consolidation](scalability/consolidation.md)
 * [Pruning](scalability/pruning.md)
 
@@ -43,7 +43,7 @@
 
 ## DeFi Tranasactions <a id="defi"></a>
 
-* [Time Locked Transactions](defi/time-locked-transactions.md)
+* [Time Locked Transactions \(TLT\)](defi/time-locked-transactions.md)
 * [On-Chain Trade](defi/feature-on-chain-trade.md)
 * [Long Term Savings](defi/long-term-saving.md)
 
