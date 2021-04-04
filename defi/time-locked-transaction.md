@@ -2,7 +2,7 @@
 description: Last Updated 2021-04-04
 ---
 
-# Time Locked Transactions \(TLT\)
+# Time Locked Transaction \(TLT\)
 
 Time Locked Transaction \(TLT\) is a preliminary work for smart contract implementation.
 
