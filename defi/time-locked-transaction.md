@@ -10,7 +10,7 @@ These TLTs will take place **on a different mempool** from the one we are using 
 
 This is how it works.
 
-1\) User A creates a TLT\(X\) and TLT\(X\) will not be included in a block until a certain time is passed.
+1\) User A creates a TLT\(X\) to User B and TLT\(X\) will not be included in a block until a certain time is passed.
 
 2\) Unlike normal transactions User A can cancel TLT\(X\) by creating a negative transaction  
 ex\) -TLT\(X\) before the designated time condition is met.
