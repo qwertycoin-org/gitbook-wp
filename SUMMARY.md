@@ -43,7 +43,7 @@
 
 ## DeFi Tranasactions <a id="defi"></a>
 
-* [Time Locked Transactions](defi/feature-time-locked-transactions.md)
+* [Time Locked Transactions](defi/time-locked-transactions.md)
 * [On-Chain Trade](defi/feature-on-chain-trade.md)
 * [Long Term Savings](defi/long-term-saving.md)
 
