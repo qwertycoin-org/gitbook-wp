@@ -39,13 +39,13 @@
 
 * [FATF Compliance](governance/fatf-compliance.md)
 * [10% Governance Fee](governance/10-governance-fee.md)
-* [On-Chain Voting](governance/on-chain-voting.md)
+* [Community Voting](governance/on-chain-voting.md)
 
 ## DeFi Tranasactions <a id="defi"></a>
 
 * [Time Locked Transaction \(TLT\)](defi/time-locked-transaction.md)
-* [On-Chain Trade](defi/feature-on-chain-trade.md)
 * [Long Term Saving \(LTS\)](defi/long-term-saving.md)
+* [On-Chain Trade](defi/feature-on-chain-trade.md)
 
 ## Smart Contracts
 

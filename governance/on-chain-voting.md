@@ -2,7 +2,7 @@
 description: Last Updated 2020-08-04
 ---
 
-# On-Chain Voting
+# Community Voting
 
 Currently, QWC uses an online voting system [here](https://voting.qwertycoin.org).
 
