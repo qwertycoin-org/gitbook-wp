@@ -44,7 +44,7 @@
 ## DeFi Tranasactions <a id="defi"></a>
 
 * [Time Locked Transaction \(TLT\)](defi/time-locked-transaction.md)
-* [Long Term Saving \(LTS\)](defi/long-term-saving.md)
+* [Long Term Staking \(LTS\)](defi/long-term-saving.md)
 * [On-Chain Trade](defi/feature-on-chain-trade.md)
 
 ## Smart Contracts
