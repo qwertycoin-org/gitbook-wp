@@ -1,38 +1,52 @@
 ---
-description: Last Updated 2020-06-16
+description: Qwertycoin v2 technical whitepaper — updated 2026-09-22
 ---
 
-# Cover Page
+# Qwertycoin v2 Whitepaper
 
-QWERTYCOIN **\[Ticker: QWC\]** is a digital cryptocurrency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms.
+Qwertycoin (QWC) is a privacy-preserving digital currency secured by
+**RandomX proof of work**. Qwertycoin v2 adds **Egalitarian Proof of Service
+(EPoSE) v2**, a deterministic protocol that qualifies service identities and
+assigns part of the scheduled block subsidy without replacing proof of work.
 
-![](.gitbook/assets/top.png)
+RandomX remains the only block-production and chain-selection mechanism.
+EPoSE does not use stake, collateral, delegated voting, or a second chain.
 
-**FEATURES**
+{% hint style="warning" %}
+This whitepaper explains the current implementation. Consensus is defined by
+the Qwertycoin Core source and the canonical chain. If prose and code disagree,
+the implementation at the referenced release is authoritative.
+{% endhint %}
 
-* **Anonymous, Unlinkable and Untraceable Transactions** - Based on CryptoNote V2.0 Technology over a decentralized network.
-* **Egalitarian Proof of Work \(EPoW\)** – Manipulation proof PoW consensus with CIMA + CLIFF difficulty algorithm. First in the world.
-* **Egalitarian Proof of Stake \(EPoS\)** – Hybrid PoS and dPoS consensus.
-* **Egalitarian Proof of Service \(EPoSe\)** – Ultimate consensus combining EPoW and EPoS.
-* **Reserve Requirement System** - Development fees and donations collected over time will be stored in QWERTYCOIN Foundation.
-* **No Pre-mining** - Community owned system and transparent developments and operations.
-* **Free Master Nodes** - No mandatory minimum coin commitment to run Master Nodes.
-* **Free Community Faucet** – Free QWC every 24 hours from community donations.
-* **Transparent Operations and Management** – All accounts run by community funds can be monitored using tracking keys.
+## Current baseline
 
-**TECHNICAL SPECIFICATIONS**
+| Item | Current value |
+| --- | --- |
+| Core release | `v2.0.2` |
+| Release classification | Stable client for public testing |
+| Block version | QWC hardfork `17` from genesis |
+| Mining consensus | RandomX (`rx/0`) proof of work |
+| Service protocol | EPoSE protocol version `2` |
+| Block target | 120 seconds |
+| Display precision | 8 decimal places |
+| EPoSE service share | 10% of scheduled subsidy; fees remain with the miner |
 
-* Total Number of Coins: 184.47 Billion
-* Current Target Block Time: 120 seconds -&gt; 20 seconds
-* Time for Transaction Hashes: Instant \(&lt;4 seconds\)
-* Core Design: CryptoNote V2.0 – Forked from Bytecoin, Monero + Karbowanek + Digitalnote and Qwertycoin V1.0
+The current EPoSE evidence ledger remains `NO-GO` for stable/audit readiness.
+That ledger is a release-assurance status, not a runtime switch. The v2.0.2
+client and EPoSE protocol are available for public testing while independent
+review and remaining evidence work continue.
 
-**ULTIMATE PROJECT GOALS**
+## Official resources
 
-* Development of User-Friendly Wallet Software for Desktop/Mobile Computers, Web and Mobile Phones
-* Q-Life app with chat + wallet + crypto exchange + store locator
-* Robust Network \(&lt; 50 PPM Blockchain Split\) with Blockchain/Network Monitoring Tool for all users
-* Network Explorer feature that allows monitoring of blockchain
-* User Population over 1 million
-* E-Commerce/Woo-Commerce Integration + Local Stores as Fiat Exchange
+- Website: [qwertycoin.org](https://qwertycoin.org/)
+- Core source and releases:
+  [github.com/qwertycoin-org/qwertycoin](https://github.com/qwertycoin-org/qwertycoin)
+- Desktop wallet:
+  [github.com/qwertycoin-org/qwertycoin-gui](https://github.com/qwertycoin-org/qwertycoin-gui)
+- Web wallet: [wallet.qwertycoin.org](https://wallet.qwertycoin.org/)
+- Explorer: [explorer.qwertycoin.org](https://explorer.qwertycoin.org/)
+- Node map: [nodes.qwertycoin.org](https://nodes.qwertycoin.org/)
+- Mining pool: [pool.qwertycoin.org](https://pool.qwertycoin.org/)
 
+Continue with the [Introduction](introduction.md), or use the table of contents
+to read a specific protocol section.

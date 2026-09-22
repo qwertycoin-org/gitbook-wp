@@ -1,2 +1,0 @@
-# FATF Compliance
-
