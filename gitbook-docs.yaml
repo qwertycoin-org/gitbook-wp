@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Qwertycoin Whitepaper
+  structure:
+    - type: space
+      key: space-1
+      title: Qwertycoin Whitepaper
+      path: qwertycoin-white-paper
+      default: true
+      content:
+        directory: ./qwertycoin-white-paper
