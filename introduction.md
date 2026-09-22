@@ -1,45 +1,53 @@
 ---
-description: Last Updated 2020-06-16
+description: Purpose, design principles and participant roles
 ---
 
 # Introduction
 
-Qwertycoin \(Ticker: QWC\) is an open source project for creating a decentralized digital asset, like Bitcoin.
+Qwertycoin is an open-source peer-to-peer currency. Its current v2 network is
+derived from the Monero 0.18.x/CryptoNote code family and uses QWC-specific
+network identity, genesis, address prefixes, emission parameters and EPoSE
+consensus extensions.
 
-It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin except its users. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new consensus algorithm concept exclusive to QWC.
+The project has four primary design goals:
 
-Qwertycoin transactions are safe, reliable, untraceable, unlinkable and your privacy is protected. Mathematics secures the QWC network and empowers individuals to control their own finance and information.
+1. **Permissionless block production.** Anyone can mine using the public
+   RandomX proof-of-work rules.
+2. **Private-by-default transactions.** The transaction layer combines
+   one-time output addresses, ring signatures and confidential amounts.
+3. **Deterministic service incentives.** EPoSE rewards qualified service
+   identities through rules every full node can reconstruct from canonical
+   chain data.
+4. **User-controlled keys.** Wallet spend and view keys remain with the user;
+   service-node identity keys cannot spend wallet funds.
 
-**Official Links:**
+## Participant roles
 
-Github Source Code: [https://github.com/qwertycoin-org](https://github.com/qwertycoin-org)  
-Bitcoin Talk Thread: [https://bitcointalk.org/index.php?topic=2881418.0](https://bitcointalk.org/index.php?topic=2881418.0)  
-Daemon Download for Windows, Linux and MacOS: [https://github.com/qwertycoin-org/qwertycoin/releases](https://github.com/qwertycoin-org/qwertycoin/releases)  
-Desktop Wallet\(GUI\) Download for Windows, Linux and MacOS: [https://github.com/qwertycoin-org/qwertycoin-gui/releases](https://github.com/qwertycoin-org/qwertycoin-gui/releases)  
-Desktop Wallet\(ZERO\) Download for Windows, Linux and MacOS: [https://github.com/qwertycoin-org/qwertycoin-zero/releases](https://github.com/qwertycoin-org/qwertycoin-zero/releases)  
-Web Wallet: [https://myqwertycoin.com](https://myqwertycoin.com/)  
-Cross Platform SPV\(Simplified Payment Verification\) Mobile Wallet for Android: Under development.  
-Cross Platform SPV\(Simplified Payment Verification\) Mobile Wallet for iPhone: Under development.  
-API Endpoint Mobile Wallet for Android: [https://play.google.com/store/apps/details?id=org.qwertycoin.wallet&hl=en\_US](https://play.google.com/store/apps/details?id=org.qwertycoin.wallet&hl=en_US)  
-API Endpoint Mobile Wallet for iPhone: Under development.  
-Explorer, Node List, Pools: [https://explorer.qwertycoin.org](https://explorer.qwertycoin.org/#pools)  
-Master Node Map: [https://nodes.qwertycoin.org](https://nodes.qwertycoin.org/)  
-Voting Platform: [https://voting.qwertycoin.org](https://voting.qwertycoin.org/)  
-Online Guides: [https://docs.qwertycoin.org/](https://docs.qwertycoin.org/)
+| Role | Responsibility |
+| --- | --- |
+| Miner | Builds RandomX blocks, orders transactions and extends the canonical chain. |
+| Full node | Validates proof of work, transactions, EPoSE state and Coinbase rewards. |
+| EPoSE service node | Publishes a signed endpoint, performs admission work, answers canonical-object challenges and participates in verification committees. |
+| Wallet | Detects and spends outputs controlled by the user's keys and may sign messages as proof of address control. |
+| Explorer, pool and node map | Application services that observe or help use the network; they are not consensus authorities. |
 
-**Community Links:**
+## What EPoSE is not
 
-Telegram: [https://t.me/qwertycoin](https://t.me/qwertycoin)  
-Facebook: [https://www.facebook.com/Qwertycoin-422694361519282/](https://www.facebook.com/Qwertycoin-422694361519282/)  
-Discord: [https://discord.gg/U5amwCs](https://discord.gg/U5amwCs)  
-Twitter: [https://twitter.com/Qwertycoin\_QWC](https://twitter.com/Qwertycoin_QWC)  
-Reddit: [https://www.reddit.com/r/QWERTYCOIN/](https://www.reddit.com/r/QWERTYCOIN/)  
-Medium: [https://medium.com/qwertycoin](https://medium.com/qwertycoin)
+Despite the word “service,” EPoSE is not proof of stake. It does not grant
+chain-selection power, does not require locking QWC, and does not let service
+nodes replace miners. A valid block always requires RandomX proof of work and
+must satisfy every normal transaction and reward rule.
 
+The current service kind proves a bounded signed exchange of a canonical block
+object. It does not prove one human per identity, dedicated hardware,
+geographic independence, permanent uptime or a commercial service-level
+agreement.
 
+## Documentation boundary
 
-**Support & Contact Information:**
+This whitepaper describes public protocol behavior and public software. It does
+not publish infrastructure inventories, origin addresses, administrative
+routes, credentials, private monitoring topology or wallet secrets.
 
-Telegram: [https://t.me/qwc\_support](https://t.me/qwc_support)  
-Email: [support@qwertycoin.org](mailto:support@qwertycoin.org)
-
+For operator commands and normative implementation details, use the
+[EPoSE documentation in Qwertycoin Core v2.0.2](https://github.com/qwertycoin-org/qwertycoin/tree/v2.0.2/docs/epose).

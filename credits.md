@@ -1,64 +1,28 @@
 ---
-description: Last Updated 2020-07-10
+description: Project, protocol and software acknowledgements
 ---
 
 # Credits
 
-This section provides information about QWC Core Team members and contributors. This section is to be revised periodically and previous core team members and significant contributors shall remain as well.
+Qwertycoin is maintained by the Qwertycoin project and its contributors. The
+authoritative contributor history is the signed source-control history of the
+respective repositories rather than a static roster in this document.
 
-| **Core Team** |  |  |
-| :--- | :--- | :--- |
-| **Name** | **Role in QWC Team** | **Misc.** |
-| Alex \(nnian\) | Lead Developer |  |
-| Jason \(Xecute\) | Team Lead Architect & Finance Officer |  |
-| Jeff Lee | IT & Infrastructure |  |
-| Marc \(ExploShot\) | Developer & Mobile Lead |  |
-| Michael \(ghost1x\) | Community Manager & Designer |  |
-| Dennis \(axecrypt\) | Exchange Manager |  |
+The current v2 protocol, release engineering, infrastructure and documentation
+were developed and reviewed through the public repositories in the
+[`qwertycoin-org`](https://github.com/qwertycoin-org) organization.
 
-| **Community Managers** |  |  |
-| :--- | :--- | :--- |
-| **Name** | **Role in QWC Team** | **Misc.** |
-| Michael \(ghost1x\) | German Community Manager |  |
-| Gauzz | Korean Community Manager |  |
-| Lomelicus | Turkish Community Manager |  |
+Qwertycoin's privacy transaction model and substantial portions of its Core
+lineage derive from the CryptoNote and Monero ecosystems. The project also uses
+RandomX for proof of work and depends on numerous open-source libraries and
+tools. Their copyright notices and licenses remain authoritative in the source
+and binary distributions.
 
-| **External Contributors** |  |
-| :--- | :--- |
-| **Name** | **Contribution Details** |
-| Gladcow | Please check pull requests of qwertycoin / qwertycoin-testnet |
-| Spectr | Please check pull requests of qwertycoin / qwertycoin-gui / qwertycoin-zero repositories on github. |
-| Blockinator | Please check wiki section of qwertycoin repository. |
-| Alex Bur | Designed Github hosted static webapge: www.qwertycoin.org |
-| Biz | Please check on github. |
-| Aiwe | Please check on github. |
+Earlier whitepaper authors and community contributors remain part of the
+project's history. Replacing outdated specifications does not erase that work;
+Git history preserves it while this edition accurately describes the current
+network.
 
-| **Previous Contributors** |  |  |
-| :--- | :--- | :--- |
-| **Name** | **Role in QWC Team** | **Misc.** |
-| Jeka | MacOS Lead |  |
-| Jordan Lovelle \(Anonymous\) | Team Lead & Designer |  |
-| Pascal | IT Lead |  |
-| Satish \(Mavericminer\) | Community & Marketing Manager |  |
-| Brent \(FranklinsAce\) | Community & Marketing Manager |  |
-| Lee \(Spek Oregonian\) | Speaker & Marketing Manager |  |
-| Rayen | Web Designer |  |
-
-### \*\*\*\*
-
-### **Open Source Software License Providers**
-
-**The following services granted free open source licenses in support of Qwertycoin Project. We will make good use of them for this project and the whole community appreciates the contributions towards OS projects.**
-
-\*\*\*\*
-
-![Full Access to Gitbook Features for Qwertycoin Documentation and Whitepaper Pages](.gitbook/assets/logotext.svg)
-
-
-
-![10 IDE All Package Access ](.gitbook/assets/jetbrains-variant-2.png)
-
-
-
-Please contribute to our cause and goals with your knowledge and service and we will gladly list your contribution and credits on this page. Everyone can participate in QWC project and be a part of building a blockchain service for the people.
-
+Contributions are welcome through issues and pull requests. Security-sensitive
+reports should follow the disclosure instructions in the relevant repository
+rather than being posted with exploitable detail in public channels.
